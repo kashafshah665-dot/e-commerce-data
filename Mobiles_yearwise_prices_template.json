@@ -1,0 +1,3902 @@
+[
+ {
+  "Company Name": "Apple",
+  "Model Name": "iPhone 16 128GB",
+  "Launched Year": 2024,
+  "Price_2022": "N\/A",
+  "Price_2023": "N\/A",
+  "Price_2024": "INR 79,999",
+  "Price_2025": "69900 - 72900"
+ },
+ {
+  "Company Name": "Apple",
+  "Model Name": "iPhone 16 256GB",
+  "Launched Year": 2024,
+  "Price_2022": "N\/A",
+  "Price_2023": "N\/A",
+  "Price_2024": "INR 84,999",
+  "Price_2025": "78900 - 81900"
+ },
+ {
+  "Company Name": "Apple",
+  "Model Name": "iPhone 16 512GB",
+  "Launched Year": 2024,
+  "Price_2022": "N\/A",
+  "Price_2023": "N\/A",
+  "Price_2024": "INR 89,999",
+  "Price_2025": "96900 - 99900"
+ },
+ {
+  "Company Name": "Apple",
+  "Model Name": "iPhone 16 Plus 128GB",
+  "Launched Year": 2024,
+  "Price_2022": "N\/A",
+  "Price_2023": "N\/A",
+  "Price_2024": "INR 89,999",
+  "Price_2025": "78900 - 81900"
+ },
+ {
+  "Company Name": "Apple",
+  "Model Name": "iPhone 16 Plus 256GB",
+  "Launched Year": 2024,
+  "Price_2022": "N\/A",
+  "Price_2023": "N\/A",
+  "Price_2024": "INR 94,999",
+  "Price_2025": "87900 - 90900"
+ },
+ {
+  "Company Name": "Apple",
+  "Model Name": "iPhone 16 Plus 512GB",
+  "Launched Year": 2024,
+  "Price_2022": "N\/A",
+  "Price_2023": "N\/A",
+  "Price_2024": "INR 104,999",
+  "Price_2025": "104900 - 107900"
+ },
+ {
+  "Company Name": "Apple",
+  "Model Name": "iPhone 16 Pro 128GB",
+  "Launched Year": 2024,
+  "Price_2022": "N\/A",
+  "Price_2023": "N\/A",
+  "Price_2024": "INR 99,999",
+  "Price_2025": "121900 - 124900"
+ },
+ {
+  "Company Name": "Apple",
+  "Model Name": "iPhone 16 Pro 256GB",
+  "Launched Year": 2024,
+  "Price_2022": "N\/A",
+  "Price_2023": "N\/A",
+  "Price_2024": "INR 104,999",
+  "Price_2025": "130900 - 133900"
+ },
+ {
+  "Company Name": "Apple",
+  "Model Name": "iPhone 16 Pro 512GB",
+  "Launched Year": 2024,
+  "Price_2022": "N\/A",
+  "Price_2023": "N\/A",
+  "Price_2024": "INR 114,999",
+  "Price_2025": "147900 - 150900"
+ },
+ {
+  "Company Name": "Apple",
+  "Model Name": "iPhone 16 Pro Max 128GB",
+  "Launched Year": 2024,
+  "Price_2022": "N\/A",
+  "Price_2023": "N\/A",
+  "Price_2024": "INR 109,999",
+  "Price_2025": "165900 - 168900"
+ },
+ {
+  "Company Name": "Apple",
+  "Model Name": "iPhone 16 Pro Max 256GB",
+  "Launched Year": 2024,
+  "Price_2022": "N\/A",
+  "Price_2023": "N\/A",
+  "Price_2024": "INR 114,999",
+  "Price_2025": "143900 - 146900"
+ },
+ {
+  "Company Name": "Apple",
+  "Model Name": "iPhone 16 Pro Max 512GB",
+  "Launched Year": 2024,
+  "Price_2022": "N\/A",
+  "Price_2023": "N\/A",
+  "Price_2024": "INR 124,999",
+  "Price_2025": "161900 - 164900"
+ },
+ {
+  "Company Name": "Apple",
+  "Model Name": "iPhone 15 128GB",
+  "Launched Year": 2023,
+  "Price_2022": "N\/A",
+  "Price_2023": 79900,
+  "Price_2024": "66000 - 69000",
+  "Price_2025": "55000 - 59999"
+ },
+ {
+  "Company Name": "Apple",
+  "Model Name": "iPhone 15 256GB",
+  "Launched Year": 2023,
+  "Price_2022": "N\/A",
+  "Price_2023": 89900,
+  "Price_2024": "76000 - 79000",
+  "Price_2025": "65000 - 69999"
+ },
+ {
+  "Company Name": "Apple",
+  "Model Name": "iPhone 15 512GB",
+  "Launched Year": 2023,
+  "Price_2022": "N\/A",
+  "Price_2023": 109900,
+  "Price_2024": "96000 - 99000",
+  "Price_2025": "82000 - 87999"
+ },
+ {
+  "Company Name": "Apple",
+  "Model Name": "iPhone 15 Plus 128GB",
+  "Launched Year": 2023,
+  "Price_2022": "N\/A",
+  "Price_2023": 89900,
+  "Price_2024": "77000 - 80000",
+  "Price_2025": "65000 - 69999"
+ },
+ {
+  "Company Name": "Apple",
+  "Model Name": "iPhone 15 Plus 256GB",
+  "Launched Year": 2023,
+  "Price_2022": "N\/A",
+  "Price_2023": 99900,
+  "Price_2024": "86000 - 89000",
+  "Price_2025": "75000 - 79999"
+ },
+ {
+  "Company Name": "Apple",
+  "Model Name": "iPhone 15 Plus 512GB",
+  "Launched Year": 2023,
+  "Price_2022": "N\/A",
+  "Price_2023": 119900,
+  "Price_2024": "105000 - 108000",
+  "Price_2025": "92000 - 97999"
+ },
+ {
+  "Company Name": "Apple",
+  "Model Name": "iPhone 15 Pro 128GB",
+  "Launched Year": 2023,
+  "Price_2022": "N\/A",
+  "Price_2023": 134900,
+  "Price_2024": "119000 - 124000",
+  "Price_2025": "99999 - 109999"
+ },
+ {
+  "Company Name": "Apple",
+  "Model Name": "iPhone 15 Pro 256GB",
+  "Launched Year": 2023,
+  "Price_2022": "N\/A",
+  "Price_2023": 144900,
+  "Price_2024": "129000 - 134000",
+  "Price_2025": "109999 - 119999"
+ },
+ {
+  "Company Name": "Apple",
+  "Model Name": "iPhone 15 Pro 512GB",
+  "Launched Year": 2023,
+  "Price_2022": "N\/A",
+  "Price_2023": 164900,
+  "Price_2024": "149000 - 154000",
+  "Price_2025": "129999 - 139999"
+ },
+ {
+  "Company Name": "Apple",
+  "Model Name": "iPhone 15 Pro Max 128GB",
+  "Launched Year": 2023,
+  "Price_2022": "N\/A",
+  "Price_2023": 184900,
+  "Price_2024": "169000 - 174000",
+  "Price_2025": "149999 - 159999"
+ },
+ {
+  "Company Name": "Apple",
+  "Model Name": "iPhone 15 Pro Max 256GB",
+  "Launched Year": 2023,
+  "Price_2022": "N\/A",
+  "Price_2023": 159900,
+  "Price_2024": "144000 - 149000",
+  "Price_2025": "124999 - 134999"
+ },
+ {
+  "Company Name": "Apple",
+  "Model Name": "iPhone 15 Pro Max 512GB",
+  "Launched Year": 2023,
+  "Price_2022": "N\/A",
+  "Price_2023": 179900,
+  "Price_2024": "164000 - 169000",
+  "Price_2025": "144999 - 154999"
+ },
+ {
+  "Company Name": "Apple",
+  "Model Name": "iPhone 14 128GB",
+  "Launched Year": 2022,
+  "Price_2022": 79900,
+  "Price_2023": "N\/A",
+  "Price_2024": "54999 - 58999",
+  "Price_2025": "44999 - 48999"
+ },
+ {
+  "Company Name": "Apple",
+  "Model Name": "iPhone 14 256GB",
+  "Launched Year": 2022,
+  "Price_2022": 89900,
+  "Price_2023": "N\/A",
+  "Price_2024": "69999 - 74999",
+  "Price_2025": "54999 - 58999"
+ },
+ {
+  "Company Name": "Apple",
+  "Model Name": "iPhone 14 512GB",
+  "Launched Year": 2022,
+  "Price_2022": 109900,
+  "Price_2023": "N\/A",
+  "Price_2024": "54999 - 58999",
+  "Price_2025": "69999 - 74999"
+ },
+ {
+  "Company Name": "Apple",
+  "Model Name": "iPhone 14 Plus 128GB",
+  "Launched Year": 2022,
+  "Price_2022": 89900,
+  "Price_2023": "N\/A",
+  "Price_2024": "64999 - 68999",
+  "Price_2025": "54999 - 58999"
+ },
+ {
+  "Company Name": "Apple",
+  "Model Name": "iPhone 14 Plus 256GB",
+  "Launched Year": 2022,
+  "Price_2022": 99900,
+  "Price_2023": "N\/A",
+  "Price_2024": "79999 - 84999",
+  "Price_2025": "64999 - 68999"
+ },
+ {
+  "Company Name": "Apple",
+  "Model Name": "iPhone 14 Plus 512GB",
+  "Launched Year": 2022,
+  "Price_2022": 119900,
+  "Price_2023": "N\/A",
+  "Price_2024": "N\/A (Extremely Rare)",
+  "Price_2025": "79999 - 84999"
+ },
+ {
+  "Company Name": "Apple",
+  "Model Name": "iPhone 14 Pro 128GB",
+  "Launched Year": 2022,
+  "Price_2022": 129900,
+  "Price_2023": "N\/A",
+  "Price_2024": "N\/A (Extremely Rare)",
+  "Price_2025": "N\/A (Extremely Rare)"
+ },
+ {
+  "Company Name": "Apple",
+  "Model Name": "iPhone 14 Pro 256GB",
+  "Launched Year": 2022,
+  "Price_2022": 139900,
+  "Price_2023": "N\/A",
+  "Price_2024": "N\/A (Extremely Rare)",
+  "Price_2025": "N\/A (Extremely Rare)"
+ },
+ {
+  "Company Name": "Apple",
+  "Model Name": "iPhone 14 Pro 512GB",
+  "Launched Year": 2022,
+  "Price_2022": 159900,
+  "Price_2023": "N\/A",
+  "Price_2024": "N\/A (Extremely Rare)",
+  "Price_2025": "N\/A (Extremely Rare)"
+ },
+ {
+  "Company Name": "Apple",
+  "Model Name": "iPhone 14 Pro Max 128GB",
+  "Launched Year": 2022,
+  "Price_2022": 139900,
+  "Price_2023": "N\/A",
+  "Price_2024": "N\/A (Extremely Rare)",
+  "Price_2025": "N\/A (Extremely Rare)"
+ },
+ {
+  "Company Name": "Apple",
+  "Model Name": "iPhone 14 Pro Max 256GB",
+  "Launched Year": 2022,
+  "Price_2022": 149900,
+  "Price_2023": "N\/A",
+  "Price_2024": "N\/A (Extremely Rare)",
+  "Price_2025": "N\/A (Extremely Rare)"
+ },
+ {
+  "Company Name": "Apple",
+  "Model Name": "iPhone 14 Pro Max 512GB",
+  "Launched Year": 2022,
+  "Price_2022": 169900,
+  "Price_2023": "N\/A",
+  "Price_2025": "N\/A (Extremely Rare)"
+ },
+ {
+  "Company Name": "Google",
+  "Model Name": "Pixel 8 128GB",
+  "Launched Year": 2023,
+  "Price_2022": "N\/A",
+  "Price_2023": 69999,
+  "Price_2024": 55999,
+  "Price_2025": 44799
+ },
+ {
+  "Company Name": "Google",
+  "Model Name": "Pixel 8 Pro 256GB",
+  "Launched Year": 2023,
+  "Price_2022": "N\/A",
+  "Price_2023": 99999,
+  "Price_2024": 79999,
+  "Price_2025": 63999
+ },
+ {
+  "Company Name": "Google",
+  "Model Name": "Pixel 8a 128GB",
+  "Launched Year": 2024,
+  "Price_2022": "N\/A",
+  "Price_2023": "N\/A",
+  "Price_2024": 49999,
+  "Price_2025": 39999
+ },
+ {
+  "Company Name": "Google",
+  "Model Name": "Pixel 9 128GB",
+  "Launched Year": 2024,
+  "Price_2022": "N\/A",
+  "Price_2023": "N\/A",
+  "Price_2024": 74999,
+  "Price_2025": 59999
+ },
+ {
+  "Company Name": "Google",
+  "Model Name": "Pixel 9 Pro 256GB",
+  "Launched Year": 2024,
+  "Price_2022": "N\/A",
+  "Price_2023": "N\/A",
+  "Price_2024": 109999,
+  "Price_2025": 87999
+ },
+ {
+  "Company Name": "Google",
+  "Model Name": "Pixel 9 Pro XL 512GB",
+  "Launched Year": 2024,
+  "Price_2022": "N\/A",
+  "Price_2023": "N\/A",
+  "Price_2024": 129999,
+  "Price_2025": 103999
+ },
+ {
+  "Company Name": "Google",
+  "Model Name": "Pixel 9 Pro Fold 512GB",
+  "Launched Year": 2024,
+  "Price_2022": "N\/A",
+  "Price_2023": "N\/A",
+  "Price_2024": 179999,
+  "Price_2025": 143999
+ },
+ {
+  "Company Name": "Huawei",
+  "Model Name": "P50E",
+  "Launched Year": 2022,
+  "Price_2022": 54999,
+  "Price_2023": 43999,
+  "Price_2024": 35199,
+  "Price_2025": 28159
+ },
+ {
+  "Company Name": "Huawei",
+  "Model Name": "Mate Xs 2",
+  "Launched Year": 2022,
+  "Price_2022": 199999,
+  "Price_2023": 159999,
+  "Price_2024": 127999,
+  "Price_2025": 102399
+ },
+ {
+  "Company Name": "Huawei",
+  "Model Name": "Mate 50",
+  "Launched Year": 2022,
+  "Price_2022": 84999,
+  "Price_2023": 67999,
+  "Price_2024": 54399,
+  "Price_2025": 43519
+ },
+ {
+  "Company Name": "Huawei",
+  "Model Name": "Mate 50 Pro",
+  "Launched Year": 2022,
+  "Price_2022": 99999,
+  "Price_2023": 79999,
+  "Price_2024": 63999,
+  "Price_2025": 51199
+ },
+ {
+  "Company Name": "Huawei",
+  "Model Name": "Nova 10",
+  "Launched Year": 2022,
+  "Price_2022": 39999,
+  "Price_2023": 31999,
+  "Price_2024": 25599,
+  "Price_2025": 20479
+ },
+ {
+  "Company Name": "Huawei",
+  "Model Name": "Nova 10 Pro",
+  "Launched Year": 2022,
+  "Price_2022": 49999,
+  "Price_2023": 39999,
+  "Price_2024": 31999,
+  "Price_2025": 25599
+ },
+ {
+  "Company Name": "Huawei",
+  "Model Name": "Nova 10 SE",
+  "Launched Year": 2022,
+  "Price_2022": 34999,
+  "Price_2023": 27999,
+  "Price_2024": 22399,
+  "Price_2025": 17919
+ },
+ {
+  "Company Name": "Huawei",
+  "Model Name": "P60",
+  "Launched Year": 2023,
+  "Price_2022": 84999,
+  "Price_2023": 67999,
+  "Price_2024": 54399,
+  "Price_2025": 43519
+ },
+ {
+  "Company Name": "Huawei",
+  "Model Name": "P60 Pro",
+  "Launched Year": 2023,
+  "Price_2022": 99999,
+  "Price_2023": 79999,
+  "Price_2024": 63999,
+  "Price_2025": 51199
+ },
+ {
+  "Company Name": "Huawei",
+  "Model Name": "P60 Art",
+  "Launched Year": 2023,
+  "Price_2022": 119999,
+  "Price_2023": 95999,
+  "Price_2024": 76799,
+  "Price_2025": 61439
+ },
+ {
+  "Company Name": "Huawei",
+  "Model Name": "Mate X3",
+  "Launched Year": 2023,
+  "Price_2022": 249999,
+  "Price_2023": 199999,
+  "Price_2024": 159999,
+  "Price_2025": 127999
+ },
+ {
+  "Company Name": "Huawei",
+  "Model Name": "Mate 60",
+  "Launched Year": 2023,
+  "Price_2022": 109999,
+  "Price_2023": 87999,
+  "Price_2024": 70399,
+  "Price_2025": 56319
+ },
+ {
+  "Company Name": "Huawei",
+  "Model Name": "Mate 60 Pro",
+  "Launched Year": 2023,
+  "Price_2022": 129999,
+  "Price_2023": 103999,
+  "Price_2024": 83199,
+  "Price_2025": 66559
+ },
+ {
+  "Company Name": "Huawei",
+  "Model Name": "Mate 60 Pro+",
+  "Launched Year": 2023,
+  "Price_2022": 149999,
+  "Price_2023": 119999,
+  "Price_2024": 95999,
+  "Price_2025": 76799
+ },
+ {
+  "Company Name": "Huawei",
+  "Model Name": "Nova 11",
+  "Launched Year": 2023,
+  "Price_2022": 44999,
+  "Price_2023": 35999,
+  "Price_2024": 28799,
+  "Price_2025": 23039
+ },
+ {
+  "Company Name": "Huawei",
+  "Model Name": "Nova 11 Pro",
+  "Launched Year": 2023,
+  "Price_2022": 54999,
+  "Price_2023": 43999,
+  "Price_2024": 35199,
+  "Price_2025": 28159
+ },
+ {
+  "Company Name": "Huawei",
+  "Model Name": "Nova 11 Ultra",
+  "Launched Year": 2023,
+  "Price_2022": 64999,
+  "Price_2023": 51999,
+  "Price_2024": 41599,
+  "Price_2025": 33279
+ },
+ {
+  "Company Name": "Huawei",
+  "Model Name": "Pura 70",
+  "Launched Year": 2024,
+  "Price_2022": 84999,
+  "Price_2023": 67999,
+  "Price_2024": 54399,
+  "Price_2025": 43519
+ },
+ {
+  "Company Name": "Huawei",
+  "Model Name": "Pura 70 Pro",
+  "Launched Year": 2024,
+  "Price_2022": 99999,
+  "Price_2023": 79999,
+  "Price_2024": 63999,
+  "Price_2025": 51199
+ },
+ {
+  "Company Name": "Huawei",
+  "Model Name": "Pura 70 Pro+",
+  "Launched Year": 2024,
+  "Price_2022": 114999,
+  "Price_2023": 91999,
+  "Price_2024": 73599,
+  "Price_2025": 58879
+ },
+ {
+  "Company Name": "Huawei",
+  "Model Name": "Pura 70 Ultra",
+  "Launched Year": 2024,
+  "Price_2022": 129999,
+  "Price_2023": 103999,
+  "Price_2024": 83199,
+  "Price_2025": 66559
+ },
+ {
+  "Company Name": "Huawei",
+  "Model Name": "Mate 70",
+  "Launched Year": 2024,
+  "Price_2022": 89999,
+  "Price_2023": 71999,
+  "Price_2024": 57599,
+  "Price_2025": 46079
+ },
+ {
+  "Company Name": "Huawei",
+  "Model Name": "Mate 70 Pro",
+  "Launched Year": 2024,
+  "Price_2022": 104999,
+  "Price_2023": 83999,
+  "Price_2024": 67199,
+  "Price_2025": 53759
+ },
+ {
+  "Company Name": "Huawei",
+  "Model Name": "Mate 70 Pro+",
+  "Launched Year": 2024,
+  "Price_2022": 119999,
+  "Price_2023": 95999,
+  "Price_2024": 76799,
+  "Price_2025": 61439
+ },
+ {
+  "Company Name": "Huawei",
+  "Model Name": "Mate X6",
+  "Launched Year": 2024,
+  "Price_2022": 249999,
+  "Price_2023": 199999,
+  "Price_2024": 159999,
+  "Price_2025": 127999
+ },
+ {
+  "Company Name": "Huawei",
+  "Model Name": "Nova 12",
+  "Launched Year": 2024,
+  "Price_2022": 44999,
+  "Price_2023": 35999,
+  "Price_2024": 28799,
+  "Price_2025": 23039
+ },
+ {
+  "Company Name": "Huawei",
+  "Model Name": "Nova 12 Pro",
+  "Launched Year": 2024,
+  "Price_2022": 54999,
+  "Price_2023": 43999,
+  "Price_2024": 35199,
+  "Price_2025": 28159
+ },
+ {
+  "Company Name": "Huawei",
+  "Model Name": "Mate XT 256GB",
+  "Launched Year": 2024,
+  "Price_2022": 259999,
+  "Price_2023": 207999,
+  "Price_2024": 166399,
+  "Price_2025": 133119
+ },
+ {
+  "Company Name": "Huawei",
+  "Model Name": "Mate XT 512GB",
+  "Launched Year": 2024,
+  "Price_2022": 274999,
+  "Price_2023": 219999,
+  "Price_2024": 175999,
+  "Price_2025": 140799
+ },
+ {
+  "Company Name": "Huawei",
+  "Model Name": "Nova 13 256GB",
+  "Launched Year": 2024,
+  "Price_2022": 47999,
+  "Price_2023": 38399,
+  "Price_2024": 30719,
+  "Price_2025": 24575
+ },
+ {
+  "Company Name": "Huawei",
+  "Model Name": "Nova 13 512GB",
+  "Launched Year": 2024,
+  "Price_2022": 54999,
+  "Price_2023": 43999,
+  "Price_2024": 35199,
+  "Price_2025": 28159
+ },
+ {
+  "Company Name": "Huawei",
+  "Model Name": "Nova 13 Pro 256GB",
+  "Launched Year": 2024,
+  "Price_2022": 59999,
+  "Price_2023": 47999,
+  "Price_2024": 38399,
+  "Price_2025": 30719
+ },
+ {
+  "Company Name": "Huawei",
+  "Model Name": "Nova 13 Pro 512GB",
+  "Launched Year": 2024,
+  "Price_2022": 67999,
+  "Price_2023": 54399,
+  "Price_2024": 43519,
+  "Price_2025": 34815
+ },
+ {
+  "Company Name": "Motorola",
+  "Model Name": "Edge 50 Fusion 128GB",
+  "Launched Year": 2024,
+  "Price_2022": "N\/A",
+  "Price_2023": "N\/A",
+  "Price_2024": 29999,
+  "Price_2025": 23999
+ },
+ {
+  "Company Name": "Motorola",
+  "Model Name": "Edge 50 Fusion 256GB",
+  "Launched Year": 2024,
+  "Price_2022": "N\/A",
+  "Price_2023": "N\/A",
+  "Price_2024": 34999,
+  "Price_2025": 27999
+ },
+ {
+  "Company Name": "Motorola",
+  "Model Name": "Edge 50 Pro 128GB",
+  "Launched Year": 2024,
+  "Price_2022": "N\/A",
+  "Price_2023": "N\/A",
+  "Price_2024": 34999,
+  "Price_2025": 27999
+ },
+ {
+  "Company Name": "Motorola",
+  "Model Name": "Edge 50 Pro 256GB",
+  "Launched Year": 2024,
+  "Price_2022": "N\/A",
+  "Price_2023": "N\/A",
+  "Price_2024": 39999,
+  "Price_2025": 31999
+ },
+ {
+  "Company Name": "Motorola",
+  "Model Name": "Razr 128GB",
+  "Launched Year": 2023,
+  "Price_2022": "N\/A",
+  "Price_2023": 59999,
+  "Price_2024": 47999,
+  "Price_2025": 38399
+ },
+ {
+  "Company Name": "Motorola",
+  "Model Name": "Razr 256GB",
+  "Launched Year": 2023,
+  "Price_2022": "N\/A",
+  "Price_2023": 64999,
+  "Price_2024": 51999,
+  "Price_2025": 41599
+ },
+ {
+  "Company Name": "Motorola",
+  "Model Name": "G84 5G 128GB",
+  "Launched Year": 2023,
+  "Price_2022": "N\/A",
+  "Price_2023": 19999,
+  "Price_2024": 15999,
+  "Price_2025": 12799
+ },
+ {
+  "Company Name": "Motorola",
+  "Model Name": "G84 5G 256GB",
+  "Launched Year": 2023,
+  "Price_2022": "N\/A",
+  "Price_2023": 22999,
+  "Price_2024": 18399,
+  "Price_2025": 14719
+ },
+ {
+  "Company Name": "Motorola",
+  "Model Name": "Moto G Stylus 64GB",
+  "Launched Year": 2023,
+  "Price_2022": "N\/A",
+  "Price_2023": 21999,
+  "Price_2024": 17599,
+  "Price_2025": 14079
+ },
+ {
+  "Company Name": "Motorola",
+  "Model Name": "Moto G Stylus 128GB",
+  "Launched Year": 2023,
+  "Price_2022": "N\/A",
+  "Price_2023": 24999,
+  "Price_2024": 19999,
+  "Price_2025": 15999
+ },
+ {
+  "Company Name": "Motorola",
+  "Model Name": "One Vision 3 128GB",
+  "Launched Year": 2024,
+  "Price_2022": "N\/A",
+  "Price_2023": "N\/A",
+  "Price_2024": 19999,
+  "Price_2025": 15999
+ },
+ {
+  "Company Name": "Motorola",
+  "Model Name": "One Vision 3 256GB",
+  "Launched Year": 2024,
+  "Price_2022": "N\/A",
+  "Price_2023": "N\/A",
+  "Price_2024": 22999,
+  "Price_2025": 18399
+ },
+ {
+  "Company Name": "Motorola",
+  "Model Name": "Edge 50 Lite 128GB",
+  "Launched Year": 2024,
+  "Price_2022": "N\/A",
+  "Price_2023": "N\/A",
+  "Price_2024": 27999,
+  "Price_2025": 22399
+ },
+ {
+  "Company Name": "Motorola",
+  "Model Name": "Edge 50 Lite 256GB",
+  "Launched Year": 2024,
+  "Price_2022": "N\/A",
+  "Price_2023": "N\/A",
+  "Price_2024": 29999,
+  "Price_2025": 23999
+ },
+ {
+  "Company Name": "Motorola",
+  "Model Name": "Moto E40 Plus 64GB",
+  "Launched Year": 2023,
+  "Price_2022": "N\/A",
+  "Price_2023": 11999,
+  "Price_2024": 9599,
+  "Price_2025": 7679
+ },
+ {
+  "Company Name": "Motorola",
+  "Model Name": "Moto E40 Plus 128GB",
+  "Launched Year": 2023,
+  "Price_2022": "N\/A",
+  "Price_2023": 13999,
+  "Price_2024": 11199,
+  "Price_2025": 8959
+ },
+ {
+  "Company Name": "Motorola",
+  "Model Name": "Moto G Power 64GB",
+  "Launched Year": 2022,
+  "Price_2022": 17999,
+  "Price_2023": 14399,
+  "Price_2024": 11519,
+  "Price_2025": 9215
+ },
+ {
+  "Company Name": "Motorola",
+  "Model Name": "Moto G Power 128GB",
+  "Launched Year": 2022,
+  "Price_2022": 19999,
+  "Price_2023": 15999,
+  "Price_2024": 12799,
+  "Price_2025": 10239
+ },
+ {
+  "Company Name": "Motorola",
+  "Model Name": "Moto G Play 32GB",
+  "Launched Year": 2022,
+  "Price_2022": 9999,
+  "Price_2023": 7999,
+  "Price_2024": 6399,
+  "Price_2025": 5119
+ },
+ {
+  "Company Name": "Motorola",
+  "Model Name": "Moto G Play 64GB",
+  "Launched Year": 2022,
+  "Price_2022": 11999,
+  "Price_2023": 9599,
+  "Price_2024": 7679,
+  "Price_2025": 6143
+ },
+ {
+  "Company Name": "Motorola",
+  "Model Name": "Moto G75 5G 128GB",
+  "Launched Year": 2024,
+  "Price_2022": "N\/A",
+  "Price_2023": "N\/A",
+  "Price_2024": 34999,
+  "Price_2025": 27999
+ },
+ {
+  "Company Name": "Motorola",
+  "Model Name": "Moto G75 5G 256GB",
+  "Launched Year": 2024,
+  "Price_2022": "N\/A",
+  "Price_2023": "N\/A",
+  "Price_2024": 39999,
+  "Price_2025": 31999
+ },
+ {
+  "Company Name": "Motorola",
+  "Model Name": "Moto S50 128GB",
+  "Launched Year": 2024,
+  "Price_2022": "N\/A",
+  "Price_2023": "N\/A",
+  "Price_2024": 29999,
+  "Price_2025": 23999
+ },
+ {
+  "Company Name": "Motorola",
+  "Model Name": "Moto S50 256GB",
+  "Launched Year": 2024,
+  "Price_2022": "N\/A",
+  "Price_2023": "N\/A",
+  "Price_2024": 34999,
+  "Price_2025": 27999
+ },
+ {
+  "Company Name": "Motorola",
+  "Model Name": "Edge 50 Neo 256GB",
+  "Launched Year": 2024,
+  "Price_2022": "N\/A",
+  "Price_2023": "N\/A",
+  "Price_2024": 39999,
+  "Price_2025": 31999
+ },
+ {
+  "Company Name": "Motorola",
+  "Model Name": "Edge 50 Neo 512GB",
+  "Launched Year": 2024,
+  "Price_2022": "N\/A",
+  "Price_2023": "N\/A",
+  "Price_2024": 44999,
+  "Price_2025": 35999
+ },
+ {
+  "Company Name": "Motorola",
+  "Model Name": "Moto G55 128GB",
+  "Launched Year": 2024,
+  "Price_2022": "N\/A",
+  "Price_2023": "N\/A",
+  "Price_2024": 26999,
+  "Price_2025": 21599
+ },
+ {
+  "Company Name": "Motorola",
+  "Model Name": "Moto G55 256GB",
+  "Launched Year": 2024,
+  "Price_2022": "N\/A",
+  "Price_2023": "N\/A",
+  "Price_2024": 29999,
+  "Price_2025": 23999
+ },
+ {
+  "Company Name": "Motorola",
+  "Model Name": "Moto G35 128GB",
+  "Launched Year": 2024,
+  "Price_2022": "N\/A",
+  "Price_2023": "N\/A",
+  "Price_2024": 18999,
+  "Price_2025": 15199
+ },
+ {
+  "Company Name": "Motorola",
+  "Model Name": "Moto G35 256GB",
+  "Launched Year": 2024,
+  "Price_2022": "N\/A",
+  "Price_2023": "N\/A",
+  "Price_2024": 22999,
+  "Price_2025": 18399
+ },
+ {
+  "Company Name": "Motorola",
+  "Model Name": "Moto G45 128GB",
+  "Launched Year": 2024,
+  "Price_2022": "N\/A",
+  "Price_2023": "N\/A",
+  "Price_2024": 22999,
+  "Price_2025": 18399
+ },
+ {
+  "Company Name": "Motorola",
+  "Model Name": "Moto G45 256GB",
+  "Launched Year": 2024,
+  "Price_2022": "N\/A",
+  "Price_2023": "N\/A",
+  "Price_2024": 26999,
+  "Price_2025": 21599
+ },
+ {
+  "Company Name": "Motorola",
+  "Model Name": "Edge 50 256GB",
+  "Launched Year": 2024,
+  "Price_2022": "N\/A",
+  "Price_2023": "N\/A",
+  "Price_2024": 44999,
+  "Price_2025": 35999
+ },
+ {
+  "Company Name": "Motorola",
+  "Model Name": "Edge 50 512GB",
+  "Launched Year": 2024,
+  "Price_2022": "N\/A",
+  "Price_2023": "N\/A",
+  "Price_2024": 49999,
+  "Price_2025": 39999
+ },
+ {
+  "Company Name": "Motorola",
+  "Model Name": "Razr 50 Ultra 512GB",
+  "Launched Year": 2024,
+  "Price_2022": "N\/A",
+  "Price_2023": "N\/A",
+  "Price_2024": 99999,
+  "Price_2025": 79999
+ },
+ {
+  "Company Name": "Motorola",
+  "Model Name": "Razr 50 256GB",
+  "Launched Year": 2024,
+  "Price_2022": "N\/A",
+  "Price_2023": "N\/A",
+  "Price_2024": 79999,
+  "Price_2025": 63999
+ },
+ {
+  "Company Name": "Motorola",
+  "Model Name": "Moto G85 128GB",
+  "Launched Year": 2024,
+  "Price_2022": "N\/A",
+  "Price_2023": "N\/A",
+  "Price_2024": 29999,
+  "Price_2025": 23999
+ },
+ {
+  "Company Name": "Motorola",
+  "Model Name": "Moto G85 256GB",
+  "Launched Year": 2024,
+  "Price_2022": "N\/A",
+  "Price_2023": "N\/A",
+  "Price_2024": 34999,
+  "Price_2025": 27999
+ },
+ {
+  "Company Name": "Motorola",
+  "Model Name": "S50 Neo 256GB",
+  "Launched Year": 2024,
+  "Price_2022": "N\/A",
+  "Price_2023": "N\/A",
+  "Price_2024": 26999,
+  "Price_2025": 21599
+ },
+ {
+  "Company Name": "Motorola",
+  "Model Name": "S50 Neo 512GB",
+  "Launched Year": 2024,
+  "Price_2022": "N\/A",
+  "Price_2023": "N\/A",
+  "Price_2024": 29999,
+  "Price_2025": 23999
+ },
+ {
+  "Company Name": "Motorola",
+  "Model Name": "Moto E14 64GB",
+  "Launched Year": 2024,
+  "Price_2022": "N\/A",
+  "Price_2023": "N\/A",
+  "Price_2024": 11999,
+  "Price_2025": 9599
+ },
+ {
+  "Company Name": "Motorola",
+  "Model Name": "Moto E14 128GB",
+  "Launched Year": 2024,
+  "Price_2022": "N\/A",
+  "Price_2023": "N\/A",
+  "Price_2024": 13999,
+  "Price_2025": 11199
+ },
+ {
+  "Company Name": "Motorola",
+  "Model Name": "Edge 256GB",
+  "Launched Year": 2024,
+  "Price_2022": "N\/A",
+  "Price_2023": "N\/A",
+  "Price_2024": 44999,
+  "Price_2025": 35999
+ },
+ {
+  "Company Name": "Motorola",
+  "Model Name": "Edge 512GB",
+  "Launched Year": 2024,
+  "Price_2022": "N\/A",
+  "Price_2023": "N\/A",
+  "Price_2024": 49999,
+  "Price_2025": 39999
+ },
+ {
+  "Company Name": "Motorola",
+  "Model Name": "Moto X50 Ultra 512GB",
+  "Launched Year": 2024,
+  "Price_2022": "N\/A",
+  "Price_2023": "N\/A",
+  "Price_2024": 119999,
+  "Price_2025": 95999
+ },
+ {
+  "Company Name": "Motorola",
+  "Model Name": "Moto G Stylus 5G 256GB",
+  "Launched Year": 2024,
+  "Price_2022": "N\/A",
+  "Price_2023": "N\/A",
+  "Price_2024": 26999,
+  "Price_2025": 21599
+ },
+ {
+  "Company Name": "Motorola",
+  "Model Name": "Moto G Stylus 5G 512GB",
+  "Launched Year": 2024,
+  "Price_2022": "N\/A",
+  "Price_2023": "N\/A",
+  "Price_2024": 29999,
+  "Price_2025": 23999
+ },
+ {
+  "Company Name": "Motorola",
+  "Model Name": "Edge 50 Ultra 512GB",
+  "Launched Year": 2024,
+  "Price_2022": "N\/A",
+  "Price_2023": "N\/A",
+  "Price_2024": 119999,
+  "Price_2025": 95999
+ },
+ {
+  "Company Name": "Motorola",
+  "Model Name": "Edge 30 Fusion 128GB",
+  "Launched Year": 2022,
+  "Price_2022": 49999,
+  "Price_2023": 39999,
+  "Price_2024": 31999,
+  "Price_2025": 25599
+ },
+ {
+  "Company Name": "Motorola",
+  "Model Name": "Edge 30 Fusion 256GB",
+  "Launched Year": 2022,
+  "Price_2022": 54999,
+  "Price_2023": 43999,
+  "Price_2024": 35199,
+  "Price_2025": 28159
+ },
+ {
+  "Company Name": "Motorola",
+  "Model Name": "Edge 30 Neo 128GB",
+  "Launched Year": 2022,
+  "Price_2022": 34999,
+  "Price_2023": 27999,
+  "Price_2024": 22399,
+  "Price_2025": 17919
+ },
+ {
+  "Company Name": "Motorola",
+  "Model Name": "Edge 30 Neo 256GB",
+  "Launched Year": 2022,
+  "Price_2022": 39999,
+  "Price_2023": 31999,
+  "Price_2024": 25599,
+  "Price_2025": 20479
+ },
+ {
+  "Company Name": "Motorola",
+  "Model Name": "Moto G82 5G 128GB",
+  "Launched Year": 2022,
+  "Price_2022": 24999,
+  "Price_2023": 19999,
+  "Price_2024": 15999,
+  "Price_2025": 12799
+ },
+ {
+  "Company Name": "Motorola",
+  "Model Name": "Moto G82 5G 256GB",
+  "Launched Year": 2022,
+  "Price_2022": 29999,
+  "Price_2023": 23999,
+  "Price_2024": 19199,
+  "Price_2025": 15359
+ },
+ {
+  "Company Name": "Motorola",
+  "Model Name": "Moto G62 5G 128GB",
+  "Launched Year": 2022,
+  "Price_2022": 19999,
+  "Price_2023": 15999,
+  "Price_2024": 12799,
+  "Price_2025": 10239
+ },
+ {
+  "Company Name": "Motorola",
+  "Model Name": "Moto G62 5G 256GB",
+  "Launched Year": 2022,
+  "Price_2022": 24999,
+  "Price_2023": 19999,
+  "Price_2024": 15999,
+  "Price_2025": 12799
+ },
+ {
+  "Company Name": "Motorola",
+  "Model Name": "Moto G42 128GB",
+  "Launched Year": 2022,
+  "Price_2022": 16999,
+  "Price_2023": 13599,
+  "Price_2024": 10879,
+  "Price_2025": 8703
+ },
+ {
+  "Company Name": "Motorola",
+  "Model Name": "Moto G32 128GB",
+  "Launched Year": 2022,
+  "Price_2022": 14999,
+  "Price_2023": 11999,
+  "Price_2024": 9599,
+  "Price_2025": 7679
+ },
+ {
+  "Company Name": "Motorola",
+  "Model Name": "Moto E32s 64GB",
+  "Launched Year": 2022,
+  "Price_2022": 11999,
+  "Price_2023": 9599,
+  "Price_2024": 7679,
+  "Price_2025": 6143
+ },
+ {
+  "Company Name": "Motorola",
+  "Model Name": "Moto E22i 32GB",
+  "Launched Year": 2022,
+  "Price_2022": 9999,
+  "Price_2023": 7999,
+  "Price_2024": 6399,
+  "Price_2025": 5119
+ },
+ {
+  "Company Name": "Motorola",
+  "Model Name": "Moto E22 64GB",
+  "Launched Year": 2022,
+  "Price_2022": 10999,
+  "Price_2023": 8799,
+  "Price_2024": 7039,
+  "Price_2025": 5631
+ },
+ {
+  "Company Name": "Motorola",
+  "Model Name": "Moto G22 64GB",
+  "Launched Year": 2022,
+  "Price_2022": 12999,
+  "Price_2023": 10399,
+  "Price_2024": 8319,
+  "Price_2025": 6655
+ },
+ {
+  "Company Name": "OnePlus",
+  "Model Name": "OnePlus 12 256GB",
+  "Launched Year": 2024,
+  "Price_2022": "N\/A",
+  "Price_2023": "N\/A",
+  "Price_2024": 62999,
+  "Price_2025": 55000
+ },
+ {
+  "Company Name": "OnePlus",
+  "Model Name": "OnePlus 12R 256GB",
+  "Launched Year": 2024,
+  "Price_2022": "N\/A",
+  "Price_2023": "N\/A",
+  "Price_2024": 39999,
+  "Price_2025": 35000
+ },
+ {
+  "Company Name": "OnePlus",
+  "Model Name": "OnePlus 11 256GB",
+  "Launched Year": 2023,
+  "Price_2022": "N\/A",
+  "Price_2023": 61999,
+  "Price_2024": 49999,
+  "Price_2025": 42000
+ },
+ {
+  "Company Name": "OnePlus",
+  "Model Name": "OnePlus 11R 256GB",
+  "Launched Year": 2023,
+  "Price_2022": "N\/A",
+  "Price_2023": 44999,
+  "Price_2024": 34999,
+  "Price_2025": 29000
+ },
+ {
+  "Company Name": "OnePlus",
+  "Model Name": "OnePlus Nord 3 256GB",
+  "Launched Year": 2023,
+  "Price_2022": "N\/A",
+  "Price_2023": 34999,
+  "Price_2024": 27999,
+  "Price_2025": 23000
+ },
+ {
+  "Company Name": "OnePlus",
+  "Model Name": "OnePlus Nord CE 3 128GB",
+  "Launched Year": 2023,
+  "Price_2022": "N\/A",
+  "Price_2023": 22999,
+  "Price_2024": 18499,
+  "Price_2025": 15500
+ },
+ {
+  "Company Name": "OnePlus",
+  "Model Name": "OnePlus Nord CE 3 Lite 128GB",
+  "Launched Year": 2023,
+  "Price_2022": "N\/A",
+  "Price_2023": 17999,
+  "Price_2024": 14499,
+  "Price_2025": 12000
+ },
+ {
+  "Company Name": "OnePlus",
+  "Model Name": "OnePlus Nord N30 5G 128GB",
+  "Launched Year": 2023,
+  "Price_2022": "N\/A",
+  "Price_2023": 16999,
+  "Price_2024": 13999,
+  "Price_2025": 11500
+ },
+ {
+  "Company Name": "OnePlus",
+  "Model Name": "OnePlus Open 256GB",
+  "Launched Year": 2024,
+  "Price_2022": "N\/A",
+  "Price_2023": 139999,
+  "Price_2024": 99999,
+  "Price_2025": 85000
+ },
+ {
+  "Company Name": "OnePlus",
+  "Model Name": "OnePlus 10 Pro 256GB",
+  "Launched Year": 2022,
+  "Price_2022": 64999,
+  "Price_2023": 49999,
+  "Price_2024": 39999,
+  "Price_2025": 32000
+ },
+ {
+  "Company Name": "OnePlus",
+  "Model Name": "OnePlus 10T 256GB",
+  "Launched Year": 2022
+ },
+ {
+  "Company Name": "OnePlus",
+  "Model Name": "OnePlus Nord CE 2 Lite 128GB",
+  "Launched Year": 2022,
+  "Price_2022": 19999,
+  "Price_2023": 15999,
+  "Price_2024": 12999,
+  "Price_2025": 10999
+ },
+ {
+  "Company Name": "OnePlus",
+  "Model Name": "OnePlus Nord CE 2 128GB",
+  "Launched Year": 2022,
+  "Price_2022": 23999,
+  "Price_2023": 18999,
+  "Price_2024": 15999,
+  "Price_2025": 13499
+ },
+ {
+  "Company Name": "OnePlus",
+  "Model Name": "OnePlus 11 Pro 256GB",
+  "Launched Year": 2023,
+  "Price_2022": "N\/A",
+  "Price_2023": 74999,
+  "Price_2024": 59999,
+  "Price_2025": 49999
+ },
+ {
+  "Company Name": "OnePlus",
+  "Model Name": "OnePlus Nord 2T 128GB",
+  "Launched Year": 2022,
+  "Price_2022": 28999,
+  "Price_2023": 22999,
+  "Price_2024": 17999,
+  "Price_2025": 14999
+ },
+ {
+  "Company Name": "OnePlus",
+  "Model Name": "OnePlus 13R 128GB",
+  "Launched Year": 2023,
+  "Price_2022": "N\/A",
+  "Price_2023": 74999,
+  "Price_2024": 62999,
+  "Price_2025": 52999
+ },
+ {
+  "Company Name": "OnePlus",
+  "Model Name": "OnePlus 11T 128GB",
+  "Launched Year": 2023,
+  "Price_2022": "N\/A",
+  "Price_2023": 74999,
+  "Price_2024": 59999,
+  "Price_2025": 49999
+ },
+ {
+  "Company Name": "OnePlus",
+  "Model Name": "OnePlus 10R 128GB",
+  "Launched Year": 2022,
+  "Price_2022": 49999,
+  "Price_2023": 39999,
+  "Price_2024": 32999,
+  "Price_2025": 27999
+ },
+ {
+  "Company Name": "OnePlus",
+  "Model Name": "OnePlus 15R 128GB",
+  "Launched Year": 2023,
+  "Price_2022": "N\/A",
+  "Price_2023": "N\/A",
+  "Price_2024": 62999,
+  "Price_2025": 52999
+ },
+ {
+  "Company Name": "OnePlus",
+  "Model Name": "OnePlus 14+ 128GB",
+  "Launched Year": 2023,
+  "Price_2022": "N\/A",
+  "Price_2023": "N\/A",
+  "Price_2024": 69999,
+  "Price_2025": 57999
+ },
+ {
+  "Company Name": "OnePlus",
+  "Model Name": "OnePlus 13 Pro 256GB",
+  "Launched Year": 2023,
+  "Price_2022": "N\/A",
+  "Price_2023": 74999,
+  "Price_2024": 62999,
+  "Price_2025": 52999
+ },
+ {
+  "Company Name": "OnePlus",
+  "Model Name": "OnePlus 12T 5G 256GB",
+  "Launched Year": 2023,
+  "Price_2022": "N\/A",
+  "Price_2023": "N\/A",
+  "Price_2024": 74999,
+  "Price_2025": 62999
+ },
+ {
+  "Company Name": "Oppo",
+  "Model Name": "Find N3 512GB",
+  "Launched Year": 2023,
+  "Price_2022": "N\/A",
+  "Price_2023": "N\/A",
+  "Price_2024": 159999,
+  "Price_2025": 127999
+ },
+ {
+  "Company Name": "Oppo",
+  "Model Name": "Find N3 Flip 256GB",
+  "Launched Year": 2023,
+  "Price_2022": "N\/A",
+  "Price_2023": "N\/A",
+  "Price_2024": 109999,
+  "Price_2025": 87999
+ },
+ {
+  "Company Name": "Oppo",
+  "Model Name": "Find X8 Pro 256GB",
+  "Launched Year": 2024,
+  "Price_2022": "N\/A",
+  "Price_2023": "N\/A",
+  "Price_2024": 139999,
+  "Price_2025": 111999
+ },
+ {
+  "Company Name": "Oppo",
+  "Model Name": "Find X8 256GB",
+  "Launched Year": 2024,
+  "Price_2022": "N\/A",
+  "Price_2023": "N\/A",
+  "Price_2024": 119999,
+  "Price_2025": 95999
+ },
+ {
+  "Company Name": "Oppo",
+  "Model Name": "Reno13 F 4G 256GB",
+  "Launched Year": 2025,
+  "Price_2022": "N\/A",
+  "Price_2023": "N\/A",
+  "Price_2024": "N\/A",
+  "Price_2025": 44999
+ },
+ {
+  "Company Name": "Oppo",
+  "Model Name": "Reno13 F 256GB",
+  "Launched Year": 2025,
+  "Price_2022": "N\/A",
+  "Price_2023": "N\/A",
+  "Price_2024": "N\/A",
+  "Price_2025": 44999
+ },
+ {
+  "Company Name": "Oppo",
+  "Model Name": "Reno13 Pro 512GB",
+  "Launched Year": 2025,
+  "Price_2022": "N\/A",
+  "Price_2023": "N\/A",
+  "Price_2024": "N\/A",
+  "Price_2025": 69999
+ },
+ {
+  "Company Name": "Oppo",
+  "Model Name": "Reno13 256GB",
+  "Launched Year": 2025,
+  "Price_2022": "N\/A",
+  "Price_2023": "N\/A",
+  "Price_2024": "N\/A",
+  "Price_2025": 54999
+ },
+ {
+  "Company Name": "Oppo",
+  "Model Name": "Reno12 F 4G 256GB",
+  "Launched Year": 2024,
+  "Price_2022": "N\/A",
+  "Price_2023": "N\/A",
+  "Price_2024": 39999,
+  "Price_2025": 31999
+ },
+ {
+  "Company Name": "Oppo",
+  "Model Name": "Reno12 F 256GB",
+  "Launched Year": 2024,
+  "Price_2022": "N\/A",
+  "Price_2023": "N\/A",
+  "Price_2024": 39999,
+  "Price_2025": 31999
+ },
+ {
+  "Company Name": "Oppo",
+  "Model Name": "Reno12 Pro 512GB",
+  "Launched Year": 2024,
+  "Price_2022": "N\/A",
+  "Price_2023": "N\/A",
+  "Price_2024": 64999,
+  "Price_2025": 51999
+ },
+ {
+  "Company Name": "Oppo",
+  "Model Name": "Reno12 256GB",
+  "Launched Year": 2024,
+  "Price_2022": "N\/A",
+  "Price_2023": "N\/A",
+  "Price_2024": 49999,
+  "Price_2025": 39999
+ },
+ {
+  "Company Name": "Oppo",
+  "Model Name": "Reno11 F 256GB",
+  "Launched Year": 2024,
+  "Price_2022": "N\/A",
+  "Price_2023": "N\/A",
+  "Price_2024": 44999,
+  "Price_2025": 35999
+ },
+ {
+  "Company Name": "Oppo",
+  "Model Name": "Reno11 Pro 512GB",
+  "Launched Year": 2024,
+  "Price_2022": "N\/A",
+  "Price_2023": "N\/A",
+  "Price_2024": 59999,
+  "Price_2025": 47999
+ },
+ {
+  "Company Name": "Oppo",
+  "Model Name": "A5 Pro 256GB",
+  "Launched Year": 2024,
+  "Price_2022": "N\/A",
+  "Price_2023": "N\/A",
+  "Price_2024": 49999,
+  "Price_2025": 39999
+ },
+ {
+  "Company Name": "Oppo",
+  "Model Name": "A5 Pro 512GB",
+  "Launched Year": 2024,
+  "Price_2022": "N\/A",
+  "Price_2023": "N\/A",
+  "Price_2024": 54999,
+  "Price_2025": 43999
+ },
+ {
+  "Company Name": "Oppo",
+  "Model Name": "A80 256GB",
+  "Launched Year": 2024,
+  "Price_2022": "N\/A",
+  "Price_2023": "N\/A",
+  "Price_2024": 44999,
+  "Price_2025": 35999
+ },
+ {
+  "Company Name": "Oppo",
+  "Model Name": "A3 4G 128GB",
+  "Launched Year": 2024,
+  "Price_2022": "N\/A",
+  "Price_2023": "N\/A",
+  "Price_2024": 34999,
+  "Price_2025": 27999
+ },
+ {
+  "Company Name": "Oppo",
+  "Model Name": "A3x 4G 128GB",
+  "Launched Year": 2024,
+  "Price_2022": "N\/A",
+  "Price_2023": "N\/A",
+  "Price_2024": 36999,
+  "Price_2025": 29599
+ },
+ {
+  "Company Name": "Oppo",
+  "Model Name": "A3x 4G 256GB",
+  "Launched Year": 2024,
+  "Price_2022": "N\/A",
+  "Price_2023": "N\/A",
+  "Price_2024": 39999,
+  "Price_2025": 31999
+ },
+ {
+  "Company Name": "Oppo",
+  "Model Name": "A3 128GB",
+  "Launched Year": 2024,
+  "Price_2022": "N\/A",
+  "Price_2023": "N\/A",
+  "Price_2024": 34999,
+  "Price_2025": 27999
+ },
+ {
+  "Company Name": "Oppo",
+  "Model Name": "A3x 128GB",
+  "Launched Year": 2024,
+  "Price_2022": "N\/A",
+  "Price_2023": "N\/A",
+  "Price_2024": 36999,
+  "Price_2025": 29599
+ },
+ {
+  "Company Name": "Oppo",
+  "Model Name": "A3x 256GB",
+  "Launched Year": 2024,
+  "Price_2022": "N\/A",
+  "Price_2023": "N\/A",
+  "Price_2024": 39999,
+  "Price_2025": 31999
+ },
+ {
+  "Company Name": "Oppo",
+  "Model Name": "A60 128GB",
+  "Launched Year": 2024,
+  "Price_2022": "N\/A",
+  "Price_2023": "N\/A",
+  "Price_2024": 39999,
+  "Price_2025": 31999
+ },
+ {
+  "Company Name": "Oppo",
+  "Model Name": "A60 256GB",
+  "Launched Year": 2024,
+  "Price_2022": "N\/A",
+  "Price_2023": "N\/A",
+  "Price_2024": 42999,
+  "Price_2025": 34399
+ },
+ {
+  "Company Name": "Oppo",
+  "Model Name": "K12 Plus 256GB",
+  "Launched Year": 2024,
+  "Price_2022": "N\/A",
+  "Price_2023": "N\/A",
+  "Price_2024": 59999,
+  "Price_2025": 47999
+ },
+ {
+  "Company Name": "Oppo",
+  "Model Name": "K12 Plus 512GB",
+  "Launched Year": 2024,
+  "Price_2022": "N\/A",
+  "Price_2023": "N\/A",
+  "Price_2024": 64999,
+  "Price_2025": 51999
+ },
+ {
+  "Company Name": "Oppo",
+  "Model Name": "F27 128GB",
+  "Launched Year": 2024,
+  "Price_2022": "N\/A",
+  "Price_2023": "N\/A",
+  "Price_2024": 44999,
+  "Price_2025": 35999
+ },
+ {
+  "Company Name": "Oppo",
+  "Model Name": "F27 256GB",
+  "Launched Year": 2024,
+  "Price_2022": "N\/A",
+  "Price_2023": "N\/A",
+  "Price_2024": 47999,
+  "Price_2025": 38399
+ },
+ {
+  "Company Name": "Oppo",
+  "Model Name": "F27 Pro+ 256GB",
+  "Launched Year": 2024,
+  "Price_2022": "N\/A",
+  "Price_2023": "N\/A",
+  "Price_2024": 49999,
+  "Price_2025": 39999
+ },
+ {
+  "Company Name": "Oppo",
+  "Model Name": "F27 Pro+ 512GB",
+  "Launched Year": 2024,
+  "Price_2022": "N\/A",
+  "Price_2023": "N\/A",
+  "Price_2024": 54999,
+  "Price_2025": 43999
+ },
+ {
+  "Company Name": "Oppo",
+  "Model Name": "F25 Pro 128GB",
+  "Launched Year": 2023,
+  "Price_2022": "N\/A",
+  "Price_2023": 42999,
+  "Price_2024": 34399,
+  "Price_2025": 27519
+ },
+ {
+  "Company Name": "Oppo",
+  "Model Name": "F25 Pro 256GB",
+  "Launched Year": 2023,
+  "Price_2022": "N\/A",
+  "Price_2023": 44999,
+  "Price_2024": 35999,
+  "Price_2025": 28799
+ },
+ {
+  "Company Name": "Oppo",
+  "Model Name": "Pad 3 128GB",
+  "Launched Year": 2024,
+  "Price_2022": "N\/A",
+  "Price_2023": "N\/A",
+  "Price_2024": 54999,
+  "Price_2025": 43999
+ },
+ {
+  "Company Name": "Oppo",
+  "Model Name": "Pad 3 256GB",
+  "Launched Year": 2024,
+  "Price_2022": "N\/A",
+  "Price_2023": "N\/A",
+  "Price_2024": 59999,
+  "Price_2025": 47999
+ },
+ {
+  "Company Name": "Oppo",
+  "Model Name": "Pad 3 Pro 256GB",
+  "Launched Year": 2024,
+  "Price_2022": "N\/A",
+  "Price_2023": "N\/A",
+  "Price_2024": 64999,
+  "Price_2025": 51999
+ },
+ {
+  "Company Name": "Oppo",
+  "Model Name": "Pad 3 Pro 512GB",
+  "Launched Year": 2024,
+  "Price_2022": "N\/A",
+  "Price_2023": "N\/A",
+  "Price_2024": 69999,
+  "Price_2025": 55999
+ },
+ {
+  "Company Name": "Oppo",
+  "Model Name": "Pad Neo 128GB",
+  "Launched Year": 2023,
+  "Price_2022": "N\/A",
+  "Price_2023": 44999,
+  "Price_2024": 35999,
+  "Price_2025": 28799
+ },
+ {
+  "Company Name": "Oppo",
+  "Model Name": "Pad Neo 256GB",
+  "Launched Year": 2023,
+  "Price_2022": "N\/A",
+  "Price_2023": 49999,
+  "Price_2024": 39999,
+  "Price_2025": 31999
+ },
+ {
+  "Company Name": "Oppo",
+  "Model Name": "Find X7 Ultra 256GB",
+  "Launched Year": 2024,
+  "Price_2022": "N\/A",
+  "Price_2023": "N\/A",
+  "Price_2024": 109999,
+  "Price_2025": 87999
+ },
+ {
+  "Company Name": "Oppo",
+  "Model Name": "Find X7 Ultra 512GB",
+  "Launched Year": 2024,
+  "Price_2022": "N\/A",
+  "Price_2023": "N\/A",
+  "Price_2024": 119999,
+  "Price_2025": 95999
+ },
+ {
+  "Company Name": "Oppo",
+  "Model Name": "Find X7 256GB",
+  "Launched Year": 2024,
+  "Price_2022": "N\/A",
+  "Price_2023": "N\/A",
+  "Price_2024": 99999,
+  "Price_2025": 79999
+ },
+ {
+  "Company Name": "Oppo",
+  "Model Name": "Find X7 512GB",
+  "Launched Year": 2024,
+  "Price_2022": "N\/A",
+  "Price_2023": "N\/A",
+  "Price_2024": 109999,
+  "Price_2025": 87999
+ },
+ {
+  "Company Name": "Oppo",
+  "Model Name": "Find X6 Pro 256GB",
+  "Launched Year": 2023,
+  "Price_2022": "N\/A",
+  "Price_2023": 94999,
+  "Price_2024": 75999,
+  "Price_2025": 60799
+ },
+ {
+  "Company Name": "Oppo",
+  "Model Name": "Find X6 Pro 512GB",
+  "Launched Year": 2023,
+  "Price_2022": "N\/A",
+  "Price_2023": 104999,
+  "Price_2024": 83999,
+  "Price_2025": 67199
+ },
+ {
+  "Company Name": "Oppo",
+  "Model Name": "Find X6 256GB",
+  "Launched Year": 2023,
+  "Price_2022": "N\/A",
+  "Price_2023": 84999,
+  "Price_2024": 67999,
+  "Price_2025": 54399
+ },
+ {
+  "Company Name": "Oppo",
+  "Model Name": "Find X6 512GB",
+  "Launched Year": 2023,
+  "Price_2022": "N\/A",
+  "Price_2023": 94999,
+  "Price_2024": 75999,
+  "Price_2025": 60799
+ },
+ {
+  "Company Name": "Oppo",
+  "Model Name": "Find X5 Pro 256GB",
+  "Launched Year": 2022,
+  "Price_2022": 89999,
+  "Price_2023": 71999,
+  "Price_2024": 57599,
+  "Price_2025": 46079
+ },
+ {
+  "Company Name": "Oppo",
+  "Model Name": "Find X5 Pro 512GB",
+  "Launched Year": 2022,
+  "Price_2022": 99999,
+  "Price_2023": 79999,
+  "Price_2024": 63999,
+  "Price_2025": 51199
+ },
+ {
+  "Company Name": "Oppo",
+  "Model Name": "Find X5 256GB",
+  "Launched Year": 2022,
+  "Price_2022": 79999,
+  "Price_2023": 63999,
+  "Price_2024": 51199,
+  "Price_2025": 40959
+ },
+ {
+  "Company Name": "Oppo",
+  "Model Name": "Find N2 Flip 256GB",
+  "Launched Year": 2023,
+  "Price_2022": "N\/A",
+  "Price_2023": 84999,
+  "Price_2024": 67999,
+  "Price_2025": 54399
+ },
+ {
+  "Company Name": "Oppo",
+  "Model Name": "Find N2 Flip 512GB",
+  "Launched Year": 2023,
+  "Price_2022": "N\/A",
+  "Price_2023": 94999,
+  "Price_2024": 75999,
+  "Price_2025": 60799
+ },
+ {
+  "Company Name": "Oppo",
+  "Model Name": "Find N2 256GB",
+  "Launched Year": 2022,
+  "Price_2022": "N\/A",
+  "Price_2023": 99999,
+  "Price_2024": 79999,
+  "Price_2025": 63999
+ },
+ {
+  "Company Name": "Oppo",
+  "Model Name": "Reno10 5G 128GB",
+  "Launched Year": 2023,
+  "Price_2022": "N\/A",
+  "Price_2023": 38999,
+  "Price_2024": 31199,
+  "Price_2025": 24959
+ },
+ {
+  "Company Name": "Oppo",
+  "Model Name": "Reno10 5G 256GB",
+  "Launched Year": 2023,
+  "Price_2022": "N\/A",
+  "Price_2023": 42999,
+  "Price_2024": 34399,
+  "Price_2025": 27519
+ },
+ {
+  "Company Name": "Oppo",
+  "Model Name": "Reno10 Pro 5G 256GB",
+  "Launched Year": 2023,
+  "Price_2022": "N\/A",
+  "Price_2023": 44999,
+  "Price_2024": 35999,
+  "Price_2025": 28799
+ },
+ {
+  "Company Name": "Oppo",
+  "Model Name": "Reno10 Pro+ 5G 256GB",
+  "Launched Year": 2023,
+  "Price_2022": "N\/A",
+  "Price_2023": 54999,
+  "Price_2024": 43999,
+  "Price_2025": 35199
+ },
+ {
+  "Company Name": "Oppo",
+  "Model Name": "A59 5G 128GB",
+  "Launched Year": 2023,
+  "Price_2022": "N\/A",
+  "Price_2023": 14999,
+  "Price_2024": 11999,
+  "Price_2025": 9599
+ },
+ {
+  "Company Name": "Oppo",
+  "Model Name": "A59 5G 256GB",
+  "Launched Year": 2023,
+  "Price_2022": "N\/A",
+  "Price_2023": 16999,
+  "Price_2024": 13599,
+  "Price_2025": 10879
+ },
+ {
+  "Company Name": "Oppo",
+  "Model Name": "A58 5G 256GB",
+  "Launched Year": 2022,
+  "Price_2022": 19000,
+  "Price_2023": 15200,
+  "Price_2024": 12160,
+  "Price_2025": 9728
+ },
+ {
+  "Company Name": "Oppo",
+  "Model Name": "A57 5G 128GB",
+  "Launched Year": 2022,
+  "Price_2022": 15999,
+  "Price_2023": 12799,
+  "Price_2024": 10239,
+  "Price_2025": 8191
+ },
+ {
+  "Company Name": "Oppo",
+  "Model Name": "A56 5G 128GB",
+  "Launched Year": 2021,
+  "Price_2022": 14999,
+  "Price_2023": 11999,
+  "Price_2024": 9599,
+  "Price_2025": 7679
+ },
+ {
+  "Company Name": "Oppo",
+  "Model Name": "A40 128GB",
+  "Launched Year": 2024,
+  "Price_2022": "N\/A",
+  "Price_2023": "N\/A",
+  "Price_2024": 19999,
+  "Price_2025": 15999
+ },
+ {
+  "Company Name": "Oppo",
+  "Model Name": "A40 256GB",
+  "Launched Year": 2024,
+  "Price_2022": "N\/A",
+  "Price_2023": "N\/A",
+  "Price_2024": 22999,
+  "Price_2025": 18399
+ },
+ {
+  "Company Name": "Oppo",
+  "Model Name": "K11x 128GB",
+  "Launched Year": 2023,
+  "Price_2022": "N\/A",
+  "Price_2023": 18000,
+  "Price_2024": 14400,
+  "Price_2025": 11520
+ },
+ {
+  "Company Name": "Oppo",
+  "Model Name": "K11x 256GB",
+  "Launched Year": 2023,
+  "Price_2022": "N\/A",
+  "Price_2023": 20000,
+  "Price_2024": 16000,
+  "Price_2025": 12800
+ },
+ {
+  "Company Name": "Oppo",
+  "Model Name": "K10x 128GB",
+  "Launched Year": 2022,
+  "Price_2022": 16990,
+  "Price_2023": 13592,
+  "Price_2024": 10874,
+  "Price_2025": 8699
+ },
+ {
+  "Company Name": "Oppo",
+  "Model Name": "K10x 256GB",
+  "Launched Year": 2022,
+  "Price_2022": 18990,
+  "Price_2023": 15192,
+  "Price_2024": 12154,
+  "Price_2025": 9723
+ },
+ {
+  "Company Name": "Oppo",
+  "Model Name": "K10 5G 128GB",
+  "Launched Year": 2022,
+  "Price_2022": 19999,
+  "Price_2023": 15999,
+  "Price_2024": 12799,
+  "Price_2025": 10239
+ },
+ {
+  "Company Name": "Oppo",
+  "Model Name": "K11 128GB",
+  "Launched Year": 2023,
+  "Price_2022": "N\/A",
+  "Price_2023": 21999,
+  "Price_2024": 17599,
+  "Price_2025": 14079
+ },
+ {
+  "Company Name": "Oppo",
+  "Model Name": "K11 256GB",
+  "Launched Year": 2023,
+  "Price_2022": "N\/A",
+  "Price_2023": 24999,
+  "Price_2024": 19999,
+  "Price_2025": 15999
+ },
+ {
+  "Company Name": "Oppo",
+  "Model Name": "K10 5G 256GB",
+  "Launched Year": 2022,
+  "Price_2022": 22999,
+  "Price_2023": 18399,
+  "Price_2024": 14719,
+  "Price_2025": 11775
+ },
+ {
+  "Company Name": "POCO",
+  "Model Name": "F4 128GB",
+  "Launched Year": 2022,
+  "Price_2022": 27999,
+  "Price_2023": 25499,
+  "Price_2024": 24499,
+  "Price_2025": 24999
+ },
+ {
+  "Company Name": "POCO",
+  "Model Name": "F4 GT 128GB",
+  "Launched Year": 2022,
+  "Price_2022": 42999,
+  "Price_2023": 39999,
+  "Price_2024": 38499,
+  "Price_2025": 39999
+ },
+ {
+  "Company Name": "POCO",
+  "Model Name": "X4 Pro 5G 128GB",
+  "Launched Year": 2022,
+  "Price_2022": 19999,
+  "Price_2023": 18499,
+  "Price_2024": 18499,
+  "Price_2025": 18999
+ },
+ {
+  "Company Name": "POCO",
+  "Model Name": "M4 Pro 128GB",
+  "Launched Year": 2022,
+  "Price_2022": 13999,
+  "Price_2023": 12999,
+  "Price_2024": 12499,
+  "Price_2025": 12999
+ },
+ {
+  "Company Name": "POCO",
+  "Model Name": "M5 128GB",
+  "Launched Year": 2022,
+  "Price_2022": 10499,
+  "Price_2023": 9499,
+  "Price_2024": 8999,
+  "Price_2025": 8999
+ },
+ {
+  "Company Name": "POCO",
+  "Model Name": "M5s 128GB",
+  "Launched Year": 2022,
+  "Price_2022": 10999,
+  "Price_2023": 9999,
+  "Price_2024": 9499,
+  "Price_2025": 9499
+ },
+ {
+  "Company Name": "POCO",
+  "Model Name": "F5 128GB",
+  "Launched Year": 2023,
+  "Price_2022": "—",
+  "Price_2023": 28999,
+  "Price_2024": 26999,
+  "Price_2025": 26999
+ },
+ {
+  "Company Name": "POCO",
+  "Model Name": "F5 Pro 256GB",
+  "Launched Year": 2023,
+  "Price_2022": "—",
+  "Price_2023": 32999,
+  "Price_2024": 30499,
+  "Price_2025": 29999
+ },
+ {
+  "Company Name": "POCO",
+  "Model Name": "X5 128GB",
+  "Launched Year": 2023,
+  "Price_2022": "—",
+  "Price_2023": 17999,
+  "Price_2024": 16499,
+  "Price_2025": 15999
+ },
+ {
+  "Company Name": "POCO",
+  "Model Name": "X5 Pro 128GB",
+  "Launched Year": 2023,
+  "Price_2022": "—",
+  "Price_2023": 20999,
+  "Price_2024": 19499,
+  "Price_2025": 18999
+ },
+ {
+  "Company Name": "POCO",
+  "Model Name": "M6 64GB",
+  "Launched Year": 2023,
+  "Price_2022": "—",
+  "Price_2023": 10499,
+  "Price_2024": 9999,
+  "Price_2025": 9499
+ },
+ {
+  "Company Name": "POCO",
+  "Model Name": "M6 Pro 128GB",
+  "Launched Year": 2023,
+  "Price_2022": "—",
+  "Price_2023": 12499,
+  "Price_2024": 11499,
+  "Price_2025": 10999
+ },
+ {
+  "Company Name": "POCO",
+  "Model Name": "C65 64GB",
+  "Launched Year": 2023,
+  "Price_2022": "—",
+  "Price_2023": 8499,
+  "Price_2024": 7999,
+  "Price_2025": 7499
+ },
+ {
+  "Company Name": "POCO",
+  "Model Name": "X6 128GB",
+  "Launched Year": 2024,
+  "Price_2022": "—",
+  "Price_2023": "—",
+  "Price_2024": 19999,
+  "Price_2025": 18999
+ },
+ {
+  "Company Name": "POCO",
+  "Model Name": "X6 Pro 256GB",
+  "Launched Year": 2024,
+  "Price_2022": "—",
+  "Price_2023": "—",
+  "Price_2024": 21999,
+  "Price_2025": 20999
+ },
+ {
+  "Company Name": "POCO",
+  "Model Name": "F6 128GB",
+  "Launched Year": 2024,
+  "Price_2022": "—",
+  "Price_2023": "—",
+  "Price_2024": 27999,
+  "Price_2025": 26999
+ },
+ {
+  "Company Name": "POCO",
+  "Model Name": "F6 Pro 256GB",
+  "Launched Year": 2024,
+  "Price_2022": "—",
+  "Price_2023": "—",
+  "Price_2024": 29999,
+  "Price_2025": 28999
+ },
+ {
+  "Company Name": "POCO",
+  "Model Name": "M7 5G 128GB",
+  "Launched Year": 2024,
+  "Price_2022": "—",
+  "Price_2023": "—",
+  "Price_2024": 12499,
+  "Price_2025": 11999
+ },
+ {
+  "Company Name": "POCO",
+  "Model Name": "Pad 5G 128GB",
+  "Launched Year": 2024,
+  "Price_2022": "—",
+  "Price_2023": "—",
+  "Price_2024": 31999,
+  "Price_2025": 30999
+ },
+ {
+  "Company Name": "POCO",
+  "Model Name": "Pad 5G 256GB",
+  "Launched Year": 2024,
+  "Price_2022": "—",
+  "Price_2023": "—",
+  "Price_2024": 33999,
+  "Price_2025": 32999
+ },
+ {
+  "Company Name": "POCO",
+  "Model Name": "X7 128GB",
+  "Launched Year": 2025,
+  "Price_2022": "—",
+  "Price_2023": "—",
+  "Price_2024": "—",
+  "Price_2025": 14499
+ },
+ {
+  "Company Name": "POCO",
+  "Model Name": "X7 Pro 256GB",
+  "Launched Year": 2025,
+  "Price_2022": "—",
+  "Price_2023": "—",
+  "Price_2024": "—",
+  "Price_2025": 19999
+ },
+ {
+  "Company Name": "Realme",
+  "Model Name": "GT 7 Pro 128GB",
+  "Launched Year": 2024,
+  "Price_2022": "N\/A",
+  "Price_2023": "N\/A",
+  "Price_2024": 59999,
+  "Price_2025": 47999
+ },
+ {
+  "Company Name": "Realme",
+  "Model Name": "GT 7 Pro 256GB",
+  "Launched Year": 2024,
+  "Price_2022": "N\/A",
+  "Price_2023": "N\/A",
+  "Price_2024": 65999,
+  "Price_2025": 52799
+ },
+ {
+  "Company Name": "Realme",
+  "Model Name": "GT 6 128GB",
+  "Launched Year": 2023,
+  "Price_2022": "N\/A",
+  "Price_2023": 37999,
+  "Price_2024": 30399,
+  "Price_2025": 24319
+ },
+ {
+  "Company Name": "Realme",
+  "Model Name": "GT 6 256GB",
+  "Launched Year": 2023,
+  "Price_2022": "N\/A",
+  "Price_2023": 39999,
+  "Price_2024": 31999,
+  "Price_2025": 25599
+ },
+ {
+  "Company Name": "Realme",
+  "Model Name": "GT 6 512GB",
+  "Launched Year": 2023,
+  "Price_2022": "N\/A",
+  "Price_2023": 41999,
+  "Price_2024": 33599,
+  "Price_2025": 26879
+ },
+ {
+  "Company Name": "Realme",
+  "Model Name": "GT 6T 128GB",
+  "Launched Year": 2023,
+  "Price_2022": "N\/A",
+  "Price_2023": 28756,
+  "Price_2024": 23005,
+  "Price_2025": 18404
+ },
+ {
+  "Company Name": "Realme",
+  "Model Name": "GT 6T 256GB",
+  "Launched Year": 2023,
+  "Price_2022": "N\/A",
+  "Price_2023": 30999,
+  "Price_2024": 24799,
+  "Price_2025": 19839
+ },
+ {
+  "Company Name": "Realme",
+  "Model Name": "14 Pro+ 5G 256GB",
+  "Launched Year": 2025,
+  "Price_2022": "N\/A",
+  "Price_2023": "N\/A",
+  "Price_2024": "N\/A",
+  "Price_2025": 34999
+ },
+ {
+  "Company Name": "Realme",
+  "Model Name": "14 Pro+ 5G 512GB",
+  "Launched Year": 2025,
+  "Price_2022": "N\/A",
+  "Price_2023": "N\/A",
+  "Price_2024": "N\/A",
+  "Price_2025": 36999
+ },
+ {
+  "Company Name": "Realme",
+  "Model Name": "14 Pro 5G 128GB",
+  "Launched Year": 2025,
+  "Price_2022": "N\/A",
+  "Price_2023": "N\/A",
+  "Price_2024": "N\/A",
+  "Price_2025": 29999
+ },
+ {
+  "Company Name": "Realme",
+  "Model Name": "14 Pro 5G 256GB",
+  "Launched Year": 2025,
+  "Price_2022": "N\/A",
+  "Price_2023": "N\/A",
+  "Price_2024": "N\/A",
+  "Price_2025": 31999
+ },
+ {
+  "Company Name": "Realme",
+  "Model Name": "14x 5G 128GB",
+  "Launched Year": 2025,
+  "Price_2022": "N\/A",
+  "Price_2023": "N\/A",
+  "Price_2024": "N\/A",
+  "Price_2025": 24999
+ },
+ {
+  "Company Name": "Realme",
+  "Model Name": "14x 5G 256GB",
+  "Launched Year": 2025,
+  "Price_2022": "N\/A",
+  "Price_2023": "N\/A",
+  "Price_2024": "N\/A",
+  "Price_2025": 26999
+ },
+ {
+  "Company Name": "Realme",
+  "Model Name": "13+ 5G 128GB",
+  "Launched Year": 2024,
+  "Price_2022": "N\/A",
+  "Price_2023": "N\/A",
+  "Price_2024": 22999,
+  "Price_2025": 18399
+ },
+ {
+  "Company Name": "Realme",
+  "Model Name": "13+ 5G 256GB",
+  "Launched Year": 2024,
+  "Price_2022": "N\/A",
+  "Price_2023": "N\/A",
+  "Price_2024": 24999,
+  "Price_2025": 19999
+ },
+ {
+  "Company Name": "Realme",
+  "Model Name": "13 5G 128GB",
+  "Launched Year": 2024,
+  "Price_2022": "N\/A",
+  "Price_2023": "N\/A",
+  "Price_2024": 18999,
+  "Price_2025": 15199
+ },
+ {
+  "Company Name": "Realme",
+  "Model Name": "13 5G 256GB",
+  "Launched Year": 2024,
+  "Price_2022": "N\/A",
+  "Price_2023": "N\/A",
+  "Price_2024": 20999,
+  "Price_2025": 16799
+ },
+ {
+  "Company Name": "Realme",
+  "Model Name": "13 Pro 5G 128GB",
+  "Launched Year": 2024,
+  "Price_2022": "N\/A",
+  "Price_2023": "N\/A",
+  "Price_2024": 27999,
+  "Price_2025": 22399
+ },
+ {
+  "Company Name": "Realme",
+  "Model Name": "13 Pro 5G 256GB",
+  "Launched Year": 2024,
+  "Price_2022": "N\/A",
+  "Price_2023": "N\/A",
+  "Price_2024": 29999,
+  "Price_2025": 23999
+ },
+ {
+  "Company Name": "Realme",
+  "Model Name": "13 Pro+ 5G 256GB",
+  "Launched Year": 2024,
+  "Price_2022": "N\/A",
+  "Price_2023": "N\/A",
+  "Price_2024": 34999,
+  "Price_2025": 27999
+ },
+ {
+  "Company Name": "Realme",
+  "Model Name": "13 Pro+ 5G 512GB",
+  "Launched Year": 2024,
+  "Price_2022": "N\/A",
+  "Price_2023": "N\/A",
+  "Price_2024": 36999,
+  "Price_2025": 29599
+ },
+ {
+  "Company Name": "Realme",
+  "Model Name": "P1 Speed 5G 128GB",
+  "Launched Year": 2024,
+  "Price_2022": "N\/A",
+  "Price_2023": "N\/A",
+  "Price_2024": 19999,
+  "Price_2025": 15999
+ },
+ {
+  "Company Name": "Realme",
+  "Model Name": "P1 Speed 5G 256GB",
+  "Launched Year": 2024,
+  "Price_2022": "N\/A",
+  "Price_2023": "N\/A",
+  "Price_2024": 21999,
+  "Price_2025": 17599
+ },
+ {
+  "Company Name": "Realme",
+  "Model Name": "P2 Pro 5G 256GB",
+  "Launched Year": 2024,
+  "Price_2022": "N\/A",
+  "Price_2023": "N\/A",
+  "Price_2024": 32999,
+  "Price_2025": 26399
+ },
+ {
+  "Company Name": "Realme",
+  "Model Name": "P2 Pro 5G 512GB",
+  "Launched Year": 2024,
+  "Price_2022": "N\/A",
+  "Price_2023": "N\/A",
+  "Price_2024": 34999,
+  "Price_2025": 27999
+ },
+ {
+  "Company Name": "Realme",
+  "Model Name": "P1 5G 128GB",
+  "Launched Year": 2024,
+  "Price_2022": "N\/A",
+  "Price_2023": "N\/A",
+  "Price_2024": 16999,
+  "Price_2025": 13599
+ },
+ {
+  "Company Name": "Realme",
+  "Model Name": "P1 5G 256GB",
+  "Launched Year": 2024,
+  "Price_2022": "N\/A",
+  "Price_2023": "N\/A",
+  "Price_2024": 18999,
+  "Price_2025": 15199
+ },
+ {
+  "Company Name": "Realme",
+  "Model Name": "P1 Pro 5G 128GB",
+  "Launched Year": 2024,
+  "Price_2022": "N\/A",
+  "Price_2023": "N\/A",
+  "Price_2024": 22999,
+  "Price_2025": 18399
+ },
+ {
+  "Company Name": "Realme",
+  "Model Name": "P1 Pro 5G 256GB",
+  "Launched Year": 2024,
+  "Price_2022": "N\/A",
+  "Price_2023": "N\/A",
+  "Price_2024": 24999,
+  "Price_2025": 19999
+ },
+ {
+  "Company Name": "Realme",
+  "Model Name": "Narzo 70 Turbo 5G 128GB",
+  "Launched Year": 2024,
+  "Price_2022": "N\/A",
+  "Price_2023": "N\/A",
+  "Price_2024": 19999,
+  "Price_2025": 15999
+ },
+ {
+  "Company Name": "Realme",
+  "Model Name": "Narzo 70 Turbo 5G 256GB",
+  "Launched Year": 2024,
+  "Price_2022": "N\/A",
+  "Price_2023": "N\/A",
+  "Price_2024": 21999,
+  "Price_2025": 17599
+ },
+ {
+  "Company Name": "Realme",
+  "Model Name": "Narzo N61 128GB",
+  "Launched Year": 2024,
+  "Price_2022": "N\/A",
+  "Price_2023": "N\/A",
+  "Price_2024": 14999,
+  "Price_2025": 11999
+ },
+ {
+  "Company Name": "Realme",
+  "Model Name": "Narzo N63 128GB",
+  "Launched Year": 2024,
+  "Price_2022": "N\/A",
+  "Price_2023": "N\/A",
+  "Price_2024": 13999,
+  "Price_2025": 11199
+ },
+ {
+  "Company Name": "Realme",
+  "Model Name": "Narzo N65 5G 128GB",
+  "Launched Year": 2024,
+  "Price_2022": "N\/A",
+  "Price_2023": "N\/A",
+  "Price_2024": 17999,
+  "Price_2025": 14399
+ },
+ {
+  "Company Name": "Realme",
+  "Model Name": "Narzo 70 5G 128GB",
+  "Launched Year": 2024,
+  "Price_2022": "N\/A",
+  "Price_2023": "N\/A",
+  "Price_2024": 19499,
+  "Price_2025": 15599
+ },
+ {
+  "Company Name": "Realme",
+  "Model Name": "C75 128GB",
+  "Launched Year": 2024,
+  "Price_2022": "N\/A",
+  "Price_2023": "N\/A",
+  "Price_2024": 13999,
+  "Price_2025": 11199
+ },
+ {
+  "Company Name": "Realme",
+  "Model Name": "C75 256GB",
+  "Launched Year": 2024,
+  "Price_2022": "N\/A",
+  "Price_2023": "N\/A",
+  "Price_2024": 15999,
+  "Price_2025": 12799
+ },
+ {
+  "Company Name": "Realme",
+  "Model Name": "C61 128GB",
+  "Launched Year": 2024,
+  "Price_2022": "N\/A",
+  "Price_2023": "N\/A",
+  "Price_2024": 11999,
+  "Price_2025": 9599
+ },
+ {
+  "Company Name": "Realme",
+  "Model Name": "C67 128GB",
+  "Launched Year": 2024,
+  "Price_2022": "N\/A",
+  "Price_2023": "N\/A",
+  "Price_2024": 14999,
+  "Price_2025": 11999
+ },
+ {
+  "Company Name": "Realme",
+  "Model Name": "C67 256GB",
+  "Launched Year": 2024,
+  "Price_2022": "N\/A",
+  "Price_2023": "N\/A",
+  "Price_2024": 16999,
+  "Price_2025": 13599
+ },
+ {
+  "Company Name": "Realme",
+  "Model Name": "C65 128GB",
+  "Launched Year": 2024,
+  "Price_2022": "N\/A",
+  "Price_2023": "N\/A",
+  "Price_2024": 13999,
+  "Price_2025": 11199
+ },
+ {
+  "Company Name": "Realme",
+  "Model Name": "C65 256GB",
+  "Launched Year": 2024,
+  "Price_2022": "N\/A",
+  "Price_2023": "N\/A",
+  "Price_2024": 15999,
+  "Price_2025": 12799
+ },
+ {
+  "Company Name": "Realme",
+  "Model Name": "C63 128GB",
+  "Launched Year": 2024,
+  "Price_2022": "N\/A",
+  "Price_2023": "N\/A",
+  "Price_2024": 13499,
+  "Price_2025": 10799
+ },
+ {
+  "Company Name": "Realme",
+  "Model Name": "C55 128GB",
+  "Launched Year": 2023,
+  "Price_2022": "N\/A",
+  "Price_2023": 14999,
+  "Price_2024": 11999,
+  "Price_2025": 9599
+ },
+ {
+  "Company Name": "Realme",
+  "Model Name": "C55 256GB",
+  "Launched Year": 2023,
+  "Price_2022": "N\/A",
+  "Price_2023": 16999,
+  "Price_2024": 13599,
+  "Price_2025": 10879
+ },
+ {
+  "Company Name": "Realme",
+  "Model Name": "Note 60x 128GB",
+  "Launched Year": 2024,
+  "Price_2022": "N\/A",
+  "Price_2023": "N\/A",
+  "Price_2024": 17999,
+  "Price_2025": 14399
+ },
+ {
+  "Company Name": "Realme",
+  "Model Name": "Note 60 128GB",
+  "Launched Year": 2024,
+  "Price_2022": "N\/A",
+  "Price_2023": "N\/A",
+  "Price_2024": 18999,
+  "Price_2025": 15199
+ },
+ {
+  "Company Name": "Realme",
+  "Model Name": "Note 60 256GB",
+  "Launched Year": 2024,
+  "Price_2022": "N\/A",
+  "Price_2023": "N\/A",
+  "Price_2024": 20999,
+  "Price_2025": 16799
+ },
+ {
+  "Company Name": "Realme",
+  "Model Name": "Note 50 128GB",
+  "Launched Year": 2024,
+  "Price_2022": "N\/A",
+  "Price_2023": "N\/A",
+  "Price_2024": 15999,
+  "Price_2025": 12799
+ },
+ {
+  "Company Name": "Realme",
+  "Model Name": "GT 7 128GB",
+  "Launched Year": 2024,
+  "Price_2022": "N\/A",
+  "Price_2023": "N\/A",
+  "Price_2024": 47999,
+  "Price_2025": 38399
+ },
+ {
+  "Company Name": "Realme",
+  "Model Name": "GT 7 256GB",
+  "Launched Year": 2024,
+  "Price_2022": "N\/A",
+  "Price_2023": "N\/A",
+  "Price_2024": 53999,
+  "Price_2025": 43199
+ },
+ {
+  "Company Name": "Realme",
+  "Model Name": "Neo 7 128GB",
+  "Launched Year": 2024,
+  "Price_2022": "N\/A",
+  "Price_2023": "N\/A",
+  "Price_2024": 30999,
+  "Price_2025": 24799
+ },
+ {
+  "Company Name": "Realme",
+  "Model Name": "Neo 7 256GB",
+  "Launched Year": 2024,
+  "Price_2022": "N\/A",
+  "Price_2023": "N\/A",
+  "Price_2024": 36999,
+  "Price_2025": 29599
+ },
+ {
+  "Company Name": "Realme",
+  "Model Name": "P2 Pro 5G 128GB",
+  "Launched Year": 2024,
+  "Price_2022": "N\/A",
+  "Price_2023": "N\/A",
+  "Price_2024": 32999,
+  "Price_2025": 26399
+ },
+ {
+  "Company Name": "Samsung",
+  "Model Name": "Galaxy S24 Ultra 128GB",
+  "Price_2022": "–",
+  "Price_2023": "–",
+  "Price_2024": 129999,
+  "Price_2025": 89999
+ },
+ {
+  "Company Name": "Samsung",
+  "Model Name": "Galaxy S24 Ultra 256GB",
+  "Launched Year": 2024,
+  "Price_2022": "–",
+  "Price_2023": "–",
+  "Price_2024": 139999,
+  "Price_2025": 94999
+ },
+ {
+  "Company Name": "Samsung",
+  "Model Name": "Galaxy S24+ 128GB",
+  "Launched Year": 2024,
+  "Price_2022": "–",
+  "Price_2023": "–",
+  "Price_2024": 99999,
+  "Price_2025": 69999
+ },
+ {
+  "Company Name": "Samsung",
+  "Model Name": "Galaxy S24+ 256GB",
+  "Launched Year": 2024,
+  "Price_2022": "–",
+  "Price_2023": "–",
+  "Price_2024": 109999,
+  "Price_2025": 74999
+ },
+ {
+  "Company Name": "Samsung",
+  "Model Name": "Galaxy S24 128GB",
+  "Launched Year": 2024,
+  "Price_2022": "–",
+  "Price_2023": "–",
+  "Price_2024": 79999,
+  "Price_2025": 39999
+ },
+ {
+  "Company Name": "Samsung",
+  "Model Name": "Galaxy S24 256GB",
+  "Launched Year": 2024,
+  "Price_2022": "–",
+  "Price_2023": "–",
+  "Price_2024": 84999,
+  "Price_2025": 44999
+ },
+ {
+  "Company Name": "Samsung",
+  "Model Name": "Galaxy S23 Ultra 128GB",
+  "Launched Year": 2023,
+  "Price_2022": "–",
+  "Price_2023": 124999,
+  "Price_2024": 94999,
+  "Price_2025": 89999
+ },
+ {
+  "Company Name": "Samsung",
+  "Model Name": "Galaxy S23 Ultra 256GB",
+  "Launched Year": 2023,
+  "Price_2022": "–",
+  "Price_2023": 134999,
+  "Price_2024": 99999,
+  "Price_2025": 94999
+ },
+ {
+  "Company Name": "Samsung",
+  "Model Name": "Galaxy S23+ 128GB",
+  "Launched Year": 2023,
+  "Price_2022": "–",
+  "Price_2023": 94999,
+  "Price_2024": 69999,
+  "Price_2025": 64999
+ },
+ {
+  "Company Name": "Samsung",
+  "Model Name": "Galaxy S23+ 256GB",
+  "Launched Year": 2023,
+  "Price_2022": "–",
+  "Price_2023": 104999,
+  "Price_2024": 74999,
+  "Price_2025": 69999
+ },
+ {
+  "Company Name": "Samsung",
+  "Model Name": "Galaxy S23 128GB",
+  "Launched Year": 2023,
+  "Price_2022": "–",
+  "Price_2023": 74999,
+  "Price_2024": 59999,
+  "Price_2025": 54999
+ },
+ {
+  "Company Name": "Samsung",
+  "Model Name": "Galaxy S23 256GB",
+  "Launched Year": 2023,
+  "Price_2022": "–",
+  "Price_2023": 84999,
+  "Price_2024": 64999,
+  "Price_2025": 59999
+ },
+ {
+  "Company Name": "Samsung",
+  "Model Name": "Galaxy S22 Ultra 128GB",
+  "Launched Year": 2022,
+  "Price_2022": 109999,
+  "Price_2023": 89999,
+  "Price_2024": 74999,
+  "Price_2025": 69999
+ },
+ {
+  "Company Name": "Samsung",
+  "Model Name": "Galaxy S22 Ultra 256GB",
+  "Launched Year": 2022,
+  "Price_2022": 119999,
+  "Price_2023": 94999,
+  "Price_2024": 79999,
+  "Price_2025": 74999
+ },
+ {
+  "Company Name": "Samsung",
+  "Model Name": "Galaxy S22+ 128GB",
+  "Launched Year": 2022,
+  "Price_2022": 84999,
+  "Price_2023": 69999,
+  "Price_2024": 54999,
+  "Price_2025": 49999
+ },
+ {
+  "Company Name": "Samsung",
+  "Model Name": "Galaxy S22+ 256GB",
+  "Launched Year": 2022,
+  "Price_2022": 94999,
+  "Price_2023": 74999,
+  "Price_2024": 59999,
+  "Price_2025": 54999
+ },
+ {
+  "Company Name": "Samsung",
+  "Model Name": "Galaxy S22 128GB",
+  "Launched Year": 2022,
+  "Price_2022": 72999,
+  "Price_2023": 59999,
+  "Price_2024": 44999,
+  "Price_2025": 39999
+ },
+ {
+  "Company Name": "Samsung",
+  "Model Name": "Galaxy S22 256GB",
+  "Launched Year": 2022,
+  "Price_2022": 82999,
+  "Price_2023": 64999,
+  "Price_2024": 49999,
+  "Price_2025": 44999
+ },
+ {
+  "Company Name": "Samsung",
+  "Model Name": "Galaxy Z Fold 5 256GB",
+  "Launched Year": 2023,
+  "Price_2022": "–",
+  "Price_2023": 154999,
+  "Price_2024": 139999,
+  "Price_2025": 129999
+ },
+ {
+  "Company Name": "Samsung",
+  "Model Name": "Galaxy Z Fold 5 512GB",
+  "Launched Year": 2023,
+  "Price_2022": "–",
+  "Price_2023": 164999,
+  "Price_2024": 149999,
+  "Price_2025": 139999
+ },
+ {
+  "Company Name": "Samsung",
+  "Model Name": "Galaxy Z Flip 5 256GB",
+  "Launched Year": 2023,
+  "Price_2022": "–",
+  "Price_2023": 89999,
+  "Price_2024": 79999,
+  "Price_2025": 74999
+ },
+ {
+  "Company Name": "Samsung",
+  "Model Name": "Galaxy Z Flip 5 512GB",
+  "Launched Year": 2023,
+  "Price_2022": "–",
+  "Price_2023": 99999,
+  "Price_2024": 89999,
+  "Price_2025": 84999
+ },
+ {
+  "Company Name": "Samsung",
+  "Model Name": "Galaxy Z Fold 4 256GB",
+  "Launched Year": 2022,
+  "Price_2022": 154999,
+  "Price_2023": 139999,
+  "Price_2024": 129999,
+  "Price_2025": 119999
+ },
+ {
+  "Company Name": "Samsung",
+  "Model Name": "Galaxy Z Fold 4 512GB",
+  "Launched Year": 2022,
+  "Price_2022": 164999,
+  "Price_2023": 149999,
+  "Price_2024": 139999,
+  "Price_2025": 129999
+ },
+ {
+  "Company Name": "Samsung",
+  "Model Name": "Galaxy Z Flip 4 256GB",
+  "Launched Year": 2022,
+  "Price_2022": 89999,
+  "Price_2023": 79999,
+  "Price_2024": 69999,
+  "Price_2025": 64999
+ },
+ {
+  "Company Name": "Samsung",
+  "Model Name": "Galaxy Z Flip 4 512GB",
+  "Launched Year": 2022,
+  "Price_2022": 99999,
+  "Price_2023": 89999,
+  "Price_2024": 79999,
+  "Price_2025": 74999
+ },
+ {
+  "Company Name": "Samsung",
+  "Model Name": "Galaxy A54 128GB",
+  "Launched Year": 2023,
+  "Price_2022": "–",
+  "Price_2023": 38999,
+  "Price_2024": 32999,
+  "Price_2025": 28999
+ },
+ {
+  "Company Name": "Samsung",
+  "Model Name": "Galaxy A54 256GB",
+  "Launched Year": 2023,
+  "Price_2022": "–",
+  "Price_2023": 42999,
+  "Price_2024": 36999,
+  "Price_2025": 32999
+ },
+ {
+  "Company Name": "Samsung",
+  "Model Name": "Galaxy A34 128GB",
+  "Launched Year": 2023,
+  "Price_2022": "–",
+  "Price_2023": 30999,
+  "Price_2024": 26999,
+  "Price_2025": 22999
+ },
+ {
+  "Company Name": "Samsung",
+  "Model Name": "Galaxy A34 256GB",
+  "Launched Year": 2023,
+  "Price_2022": "–",
+  "Price_2023": 34999,
+  "Price_2024": 29999,
+  "Price_2025": 25999
+ },
+ {
+  "Company Name": "Samsung",
+  "Model Name": "Galaxy A24 128GB",
+  "Launched Year": 2023,
+  "Price_2022": "–",
+  "Price_2023": 18999,
+  "Price_2024": 16999,
+  "Price_2025": 14999
+ },
+ {
+  "Company Name": "Samsung",
+  "Model Name": "Galaxy A24 256GB",
+  "Launched Year": 2023,
+  "Price_2022": "–",
+  "Price_2023": 21999,
+  "Price_2024": 18999,
+  "Price_2025": 16999
+ },
+ {
+  "Company Name": "Samsung",
+  "Model Name": "Galaxy A14 128GB",
+  "Launched Year": 2023,
+  "Price_2022": "–",
+  "Price_2023": 13999,
+  "Price_2024": 11999,
+  "Price_2025": 9999
+ },
+ {
+  "Company Name": "Samsung",
+  "Model Name": "Galaxy A14 256GB",
+  "Launched Year": 2023,
+  "Price_2022": "–",
+  "Price_2023": 15999,
+  "Price_2024": 13999,
+  "Price_2025": 11999
+ },
+ {
+  "Company Name": "Samsung",
+  "Model Name": "Galaxy A04 64GB",
+  "Launched Year": 2022,
+  "Price_2022": 11999,
+  "Price_2023": 9999,
+  "Price_2024": 8499,
+  "Price_2025": 7499
+ },
+ {
+  "Company Name": "Samsung",
+  "Model Name": "Galaxy A04 128GB",
+  "Launched Year": 2022,
+  "Price_2022": 13999,
+  "Price_2023": 11499,
+  "Price_2024": 9999,
+  "Price_2025": 8499
+ },
+ {
+  "Company Name": "Samsung",
+  "Model Name": "Galaxy M54 128GB",
+  "Launched Year": 2023,
+  "Price_2022": "–",
+  "Price_2023": 27999,
+  "Price_2024": 24999,
+  "Price_2025": 21999
+ },
+ {
+  "Company Name": "Samsung",
+  "Model Name": "Galaxy M54 256GB",
+  "Launched Year": 2023,
+  "Price_2022": "–",
+  "Price_2023": 30999,
+  "Price_2024": 27999,
+  "Price_2025": 24999
+ },
+ {
+  "Company Name": "Samsung",
+  "Model Name": "Galaxy M34 128GB",
+  "Launched Year": 2023,
+  "Price_2022": "–",
+  "Price_2023": 19999,
+  "Price_2024": 17999,
+  "Price_2025": 15999
+ },
+ {
+  "Company Name": "Samsung",
+  "Model Name": "Galaxy M34 256GB",
+  "Launched Year": 2023,
+  "Price_2022": "–",
+  "Price_2023": 22999,
+  "Price_2024": 19999,
+  "Price_2025": 17999
+ },
+ {
+  "Company Name": "Samsung",
+  "Model Name": "Galaxy M14 128GB",
+  "Launched Year": 2023,
+  "Price_2022": "–",
+  "Price_2023": 13499,
+  "Price_2024": 11999,
+  "Price_2025": 9999
+ },
+ {
+  "Company Name": "Samsung",
+  "Model Name": "Galaxy M14 256GB",
+  "Launched Year": 2023,
+  "Price_2022": "–",
+  "Price_2023": 15499,
+  "Price_2024": 13499,
+  "Price_2025": 11499
+ },
+ {
+  "Company Name": "Samsung",
+  "Model Name": "Galaxy M04 64GB",
+  "Launched Year": 2022,
+  "Price_2022": 9499,
+  "Price_2023": 7999,
+  "Price_2024": 6999,
+  "Price_2025": 5999
+ },
+ {
+  "Company Name": "Samsung",
+  "Model Name": "Galaxy M04 128GB",
+  "Launched Year": 2022,
+  "Price_2022": 10999,
+  "Price_2023": 8999,
+  "Price_2024": 7499,
+  "Price_2025": 6499
+ },
+ {
+  "Company Name": "Samsung",
+  "Model Name": "Galaxy F54 128GB",
+  "Launched Year": 2023,
+  "Price_2022": "–",
+  "Price_2023": 27999,
+  "Price_2024": 24999,
+  "Price_2025": 21999
+ },
+ {
+  "Company Name": "Samsung",
+  "Model Name": "Galaxy F54 256GB",
+  "Launched Year": 2023,
+  "Price_2022": "–",
+  "Price_2023": 30999,
+  "Price_2024": 27999,
+  "Price_2025": 24999
+ },
+ {
+  "Company Name": "Samsung",
+  "Model Name": "Galaxy F34 128GB",
+  "Launched Year": 2023,
+  "Price_2022": "–",
+  "Price_2023": 18999,
+  "Price_2024": 16999,
+  "Price_2025": 14999
+ },
+ {
+  "Company Name": "Samsung",
+  "Model Name": "Galaxy F34 256GB",
+  "Launched Year": 2023,
+  "Price_2022": "–",
+  "Price_2023": 21999,
+  "Price_2024": 18999,
+  "Price_2025": 16999
+ },
+ {
+  "Company Name": "Samsung",
+  "Model Name": "Galaxy F14 128GB",
+  "Launched Year": 2023,
+  "Price_2022": "–",
+  "Price_2023": 13499,
+  "Price_2024": 11999,
+  "Price_2025": 9999
+ },
+ {
+  "Company Name": "Samsung",
+  "Model Name": "Galaxy F14 256GB",
+  "Launched Year": 2023,
+  "Price_2022": "–",
+  "Price_2023": 15499,
+  "Price_2024": 13499,
+  "Price_2025": 11499
+ },
+ {
+  "Company Name": "Samsung",
+  "Model Name": "Galaxy Note 20 Ultra 128GB",
+  "Launched Year": 2022,
+  "Price_2022": 84999,
+  "Price_2023": 74999,
+  "Price_2024": 64999,
+  "Price_2025": 59999
+ },
+ {
+  "Company Name": "Samsung",
+  "Model Name": "Galaxy Note 20 Ultra 256GB",
+  "Launched Year": 2022,
+  "Price_2022": 94999,
+  "Price_2023": 84999,
+  "Price_2024": 74999,
+  "Price_2025": 69999
+ },
+ {
+  "Company Name": "Samsung",
+  "Model Name": "Galaxy Note 20 128GB",
+  "Launched Year": 2022,
+  "Price_2022": 74999,
+  "Price_2023": 64999,
+  "Price_2024": 54999,
+  "Price_2025": 49999
+ },
+ {
+  "Company Name": "Samsung",
+  "Model Name": "Galaxy Note 20 256GB",
+  "Launched Year": 2022,
+  "Price_2022": 84999,
+  "Price_2023": 74999,
+  "Price_2024": 64999,
+  "Price_2025": 59999
+ },
+ {
+  "Company Name": "Samsung",
+  "Model Name": "Galaxy Note 10+ 256GB",
+  "Launched Year": 2022,
+  "Price_2022": 69999,
+  "Price_2023": 59999,
+  "Price_2024": 49999,
+  "Price_2025": 44999
+ },
+ {
+  "Company Name": "Samsung",
+  "Model Name": "Galaxy Note 10+ 512GB",
+  "Launched Year": 2022,
+  "Price_2022": 79999,
+  "Price_2023": 69999,
+  "Price_2024": 59999,
+  "Price_2025": 54999
+ },
+ {
+  "Company Name": "Samsung",
+  "Model Name": "Galaxy Note 10 256GB",
+  "Launched Year": 2022,
+  "Price_2022": 64999,
+  "Price_2023": 54999,
+  "Price_2024": 44999,
+  "Price_2025": 39999
+ },
+ {
+  "Company Name": "Samsung",
+  "Model Name": "Galaxy Note 10 128GB",
+  "Launched Year": 2022,
+  "Price_2022": 59999,
+  "Price_2023": 49999,
+  "Price_2024": 39999,
+  "Price_2025": 34999
+ },
+ {
+  "Company Name": "Samsung",
+  "Model Name": "Galaxy Xcover 6 Pro 128GB",
+  "Launched Year": 2022,
+  "Price_2022": 59999,
+  "Price_2023": 49999,
+  "Price_2024": 44999,
+  "Price_2025": 39999
+ },
+ {
+  "Company Name": "Samsung",
+  "Model Name": "Galaxy Xcover 5 64GB",
+  "Launched Year": 2022,
+  "Price_2022": 39999,
+  "Price_2023": 34999,
+  "Price_2024": 29999,
+  "Price_2025": 24999
+ },
+ {
+  "Company Name": "Samsung",
+  "Model Name": "Galaxy J8 64GB",
+  "Launched Year": 2022,
+  "Price_2022": 19999,
+  "Price_2023": 14999,
+  "Price_2024": 11999,
+  "Price_2025": 9999
+ },
+ {
+  "Company Name": "Samsung",
+  "Model Name": "Galaxy J7 Pro 64GB",
+  "Launched Year": 2022,
+  "Price_2022": 18999,
+  "Price_2023": 13999,
+  "Price_2024": 10999,
+  "Price_2025": 8999
+ },
+ {
+  "Company Name": "Samsung",
+  "Model Name": "Galaxy J6+ 64GB",
+  "Launched Year": 2022,
+  "Price_2022": 16999,
+  "Price_2023": 12999,
+  "Price_2024": 9999,
+  "Price_2025": 7999
+ },
+ {
+  "Company Name": "Samsung",
+  "Model Name": "Galaxy J4 16GB",
+  "Launched Year": 2022,
+  "Price_2022": 10999,
+  "Price_2023": 8999,
+  "Price_2024": 6999,
+  "Price_2025": 5999
+ },
+ {
+  "Company Name": "Samsung",
+  "Model Name": "Galaxy C9 Pro 64GB",
+  "Launched Year": 2022,
+  "Price_2022": 19999,
+  "Price_2023": 14999,
+  "Price_2024": 11999,
+  "Price_2025": 9999
+ },
+ {
+  "Company Name": "Samsung",
+  "Model Name": "Galaxy C7 Pro 64GB",
+  "Launched Year": 2022,
+  "Price_2022": 17999,
+  "Price_2023": 13999,
+  "Price_2024": 10999,
+  "Price_2025": 8999
+ },
+ {
+  "Company Name": "Samsung",
+  "Model Name": "Galaxy C5 32GB",
+  "Launched Year": 2022,
+  "Price_2022": 14999,
+  "Price_2023": 11999,
+  "Price_2024": 8999,
+  "Price_2025": 6999
+ },
+ {
+  "Company Name": "Samsung",
+  "Model Name": "Galaxy W22 5G 256GB",
+  "Launched Year": 2022,
+  "Price_2022": 149999,
+  "Price_2023": 139999,
+  "Price_2024": 129999,
+  "Price_2025": 119999
+ },
+ {
+  "Company Name": "Samsung",
+  "Model Name": "Galaxy W21 5G 256GB",
+  "Launched Year": 2022,
+  "Price_2022": 139999,
+  "Price_2023": 129999,
+  "Price_2024": 119999,
+  "Price_2025": 109999
+ },
+ {
+  "Company Name": "Vivo",
+  "Model Name": "X200 128GB",
+  "Launched Year": 2024,
+  "Price_2022": "N\/A",
+  "Price_2023": "N\/A",
+  "Price_2024": 119999,
+  "Price_2025": 89999
+ },
+ {
+  "Company Name": "Vivo",
+  "Model Name": "X200 256GB",
+  "Launched Year": 2024,
+  "Price_2022": "N\/A",
+  "Price_2023": "N\/A",
+  "Price_2024": 129999,
+  "Price_2025": 97499
+ },
+ {
+  "Company Name": "Vivo",
+  "Model Name": "X200 Pro 256GB",
+  "Launched Year": 2024,
+  "Price_2022": "N\/A",
+  "Price_2023": "N\/A",
+  "Price_2024": 139999,
+  "Price_2025": 104999
+ },
+ {
+  "Company Name": "Vivo",
+  "Model Name": "X200 Pro 512GB",
+  "Launched Year": 2024,
+  "Price_2022": "N\/A",
+  "Price_2023": "N\/A",
+  "Price_2024": 149999,
+  "Price_2025": 112499
+ },
+ {
+  "Company Name": "Vivo",
+  "Model Name": "X200 Pro Mini 256GB",
+  "Launched Year": 2024,
+  "Price_2022": "N\/A",
+  "Price_2023": "N\/A",
+  "Price_2024": 109999,
+  "Price_2025": 82499
+ },
+ {
+  "Company Name": "Vivo",
+  "Model Name": "V40e 128GB",
+  "Launched Year": 2024,
+  "Price_2022": "N\/A",
+  "Price_2023": "N\/A",
+  "Price_2024": 44999,
+  "Price_2025": 33749
+ },
+ {
+  "Company Name": "Vivo",
+  "Model Name": "Y200 GT 128GB",
+  "Launched Year": 2024,
+  "Price_2022": "N\/A",
+  "Price_2023": "N\/A",
+  "Price_2024": 39999,
+  "Price_2025": 29999
+ },
+ {
+  "Company Name": "Vivo",
+  "Model Name": "T3 5G 128GB",
+  "Launched Year": 2024,
+  "Price_2022": "N\/A",
+  "Price_2023": "N\/A",
+  "Price_2024": 34999,
+  "Price_2025": 26249
+ },
+ {
+  "Company Name": "Vivo",
+  "Model Name": "Y100 5G 128GB",
+  "Launched Year": 2024,
+  "Price_2022": "N\/A",
+  "Price_2023": "N\/A",
+  "Price_2024": 29999,
+  "Price_2025": 22499
+ },
+ {
+  "Company Name": "Vivo",
+  "Model Name": "S18 Pro 256GB",
+  "Launched Year": 2024,
+  "Price_2022": "N\/A",
+  "Price_2023": "N\/A",
+  "Price_2024": 59999,
+  "Price_2025": 44999
+ },
+ {
+  "Company Name": "Vivo",
+  "Model Name": "V30 Pro 128GB",
+  "Launched Year": 2024,
+  "Price_2022": "N\/A",
+  "Price_2023": "N\/A",
+  "Price_2024": 49999,
+  "Price_2025": 37499
+ },
+ {
+  "Company Name": "Vivo",
+  "Model Name": "iQOO 12 256GB",
+  "Launched Year": 2024,
+  "Price_2022": "N\/A",
+  "Price_2023": "N\/A",
+  "Price_2024": 64999,
+  "Price_2025": 48749
+ },
+ {
+  "Company Name": "Vivo",
+  "Model Name": "V27 128GB",
+  "Launched Year": 2023,
+  "Price_2022": "N\/A",
+  "Price_2023": 29999,
+  "Price_2024": 22499,
+  "Price_2025": 16874
+ },
+ {
+  "Company Name": "Vivo",
+  "Model Name": "V27 256GB",
+  "Launched Year": 2023,
+  "Price_2022": "N\/A",
+  "Price_2023": 32999,
+  "Price_2024": 24749,
+  "Price_2025": 18562
+ },
+ {
+  "Company Name": "Vivo",
+  "Model Name": "V27 Pro 128GB",
+  "Launched Year": 2023,
+  "Price_2022": "N\/A",
+  "Price_2023": 34999,
+  "Price_2024": 26249,
+  "Price_2025": 19687
+ },
+ {
+  "Company Name": "Vivo",
+  "Model Name": "V27 Pro 256GB",
+  "Launched Year": 2023,
+  "Price_2022": "N\/A",
+  "Price_2023": 37999,
+  "Price_2024": 28499,
+  "Price_2025": 21374
+ },
+ {
+  "Company Name": "Vivo",
+  "Model Name": "V25 Pro 128GB",
+  "Launched Year": 2022,
+  "Price_2022": 25999,
+  "Price_2023": 19499,
+  "Price_2024": 14624,
+  "Price_2025": 10968
+ },
+ {
+  "Company Name": "Vivo",
+  "Model Name": "V25 Pro 256GB",
+  "Launched Year": 2022,
+  "Price_2022": 29999,
+  "Price_2023": 22499,
+  "Price_2024": 16874,
+  "Price_2025": 12656
+ },
+ {
+  "Company Name": "Vivo",
+  "Model Name": "X90 Pro 256GB",
+  "Launched Year": 2022,
+  "Price_2022": 69999,
+  "Price_2023": 52499,
+  "Price_2024": 39374,
+  "Price_2025": 29531
+ },
+ {
+  "Company Name": "Vivo",
+  "Model Name": "X90 Pro 512GB",
+  "Launched Year": 2022,
+  "Price_2022": 79999,
+  "Price_2023": 59999,
+  "Price_2024": 44999,
+  "Price_2025": 33749
+ },
+ {
+  "Company Name": "Vivo",
+  "Model Name": "Y100 128GB",
+  "Launched Year": 2023,
+  "Price_2022": "N\/A",
+  "Price_2023": 19999,
+  "Price_2024": 14999,
+  "Price_2025": 11249
+ },
+ {
+  "Company Name": "Vivo",
+  "Model Name": "Y100 256GB",
+  "Launched Year": 2023,
+  "Price_2022": "N\/A",
+  "Price_2023": 22999,
+  "Price_2024": 17249,
+  "Price_2025": 12937
+ },
+ {
+  "Company Name": "Vivo",
+  "Model Name": "T2 Series 128GB",
+  "Launched Year": 2023,
+  "Price_2022": "N\/A",
+  "Price_2023": 15999,
+  "Price_2024": 11999,
+  "Price_2025": 8999
+ },
+ {
+  "Company Name": "Vivo",
+  "Model Name": "T2 Series 256GB",
+  "Launched Year": 2023,
+  "Price_2022": "N\/A",
+  "Price_2023": 18999,
+  "Price_2024": 14249,
+  "Price_2025": 10687
+ },
+ {
+  "Company Name": "Vivo",
+  "Model Name": "V23 5G 128GB",
+  "Launched Year": 2022,
+  "Price_2022": 27999,
+  "Price_2023": 20999,
+  "Price_2024": 15749,
+  "Price_2025": 11812
+ },
+ {
+  "Company Name": "Vivo",
+  "Model Name": "V23 5G 256GB",
+  "Launched Year": 2022,
+  "Price_2022": 32999,
+  "Price_2023": 24749,
+  "Price_2024": 18562,
+  "Price_2025": 13922
+ },
+ {
+  "Company Name": "Vivo",
+  "Model Name": "X80 256GB",
+  "Launched Year": 2022,
+  "Price_2022": 59999,
+  "Price_2023": 44999,
+  "Price_2024": 33749,
+  "Price_2025": 25312
+ },
+ {
+  "Company Name": "Vivo",
+  "Model Name": "X80 512GB",
+  "Launched Year": 2022,
+  "Price_2022": 69999,
+  "Price_2023": 52499,
+  "Price_2024": 39374,
+  "Price_2025": 29531
+ },
+ {
+  "Company Name": "Vivo",
+  "Model Name": "Y21 128GB",
+  "Launched Year": 2021,
+  "Price_2022": 12999,
+  "Price_2023": 9749,
+  "Price_2024": 7312,
+  "Price_2025": 5484
+ },
+ {
+  "Company Name": "Vivo",
+  "Model Name": "Y21 64GB",
+  "Launched Year": 2021,
+  "Price_2022": 9999,
+  "Price_2023": 7499,
+  "Price_2024": 5624,
+  "Price_2025": 4218
+ },
+ {
+  "Company Name": "Xiaomi",
+  "Model Name": "Xiaomi 15 Pro 256GB",
+  "Launched Year": 2024,
+  "Price_2022": "N\/A",
+  "Price_2023": "N\/A",
+  "Price_2024": 89999,
+  "Price_2025": 71999
+ },
+ {
+  "Company Name": "Xiaomi",
+  "Model Name": "Xiaomi 15 Pro 512GB",
+  "Launched Year": 2024,
+  "Price_2022": "N\/A",
+  "Price_2023": "N\/A",
+  "Price_2024": 99999,
+  "Price_2025": 79999
+ },
+ {
+  "Company Name": "Xiaomi",
+  "Model Name": "Xiaomi 15 Pro 1TB",
+  "Launched Year": 2024,
+  "Price_2022": "N\/A",
+  "Price_2023": "N\/A",
+  "Price_2024": 109999,
+  "Price_2025": 87999
+ },
+ {
+  "Company Name": "Xiaomi",
+  "Model Name": "Xiaomi 15 256GB",
+  "Launched Year": 2024,
+  "Price_2022": "N\/A",
+  "Price_2023": "N\/A",
+  "Price_2024": 79999,
+  "Price_2025": 63999
+ },
+ {
+  "Company Name": "Xiaomi",
+  "Model Name": "Xiaomi 15 512GB",
+  "Launched Year": 2024,
+  "Price_2022": "N\/A",
+  "Price_2023": "N\/A",
+  "Price_2024": 89999,
+  "Price_2025": 71999
+ },
+ {
+  "Company Name": "Xiaomi",
+  "Model Name": "Xiaomi 14T Pro 256GB",
+  "Launched Year": 2024,
+  "Price_2022": "N\/A",
+  "Price_2023": "N\/A",
+  "Price_2024": 74999,
+  "Price_2025": 59999
+ },
+ {
+  "Company Name": "Xiaomi",
+  "Model Name": "Xiaomi 14T Pro 512GB",
+  "Launched Year": 2024,
+  "Price_2022": "N\/A",
+  "Price_2023": "N\/A",
+  "Price_2024": 84999,
+  "Price_2025": 67999
+ },
+ {
+  "Company Name": "Xiaomi",
+  "Model Name": "Xiaomi 14T Pro 1TB",
+  "Launched Year": 2024,
+  "Price_2022": "N\/A",
+  "Price_2023": "N\/A",
+  "Price_2024": 94999,
+  "Price_2025": 75999
+ },
+ {
+  "Company Name": "Xiaomi",
+  "Model Name": "Xiaomi 14T 256GB",
+  "Launched Year": 2024,
+  "Price_2022": "N\/A",
+  "Price_2023": "N\/A",
+  "Price_2024": 69999,
+  "Price_2025": 55999
+ },
+ {
+  "Company Name": "Xiaomi",
+  "Model Name": "Xiaomi 14T 512GB",
+  "Launched Year": 2024,
+  "Price_2022": "N\/A",
+  "Price_2023": "N\/A",
+  "Price_2024": 79999,
+  "Price_2025": 63999
+ },
+ {
+  "Company Name": "Xiaomi",
+  "Model Name": "Xiaomi 14 Pro 256GB",
+  "Launched Year": 2023,
+  "Price_2022": "N\/A",
+  "Price_2023": 84999,
+  "Price_2024": 67999,
+  "Price_2025": 54399
+ },
+ {
+  "Company Name": "Xiaomi",
+  "Model Name": "Xiaomi 14 Pro 512GB",
+  "Launched Year": 2023,
+  "Price_2022": "N\/A",
+  "Price_2023": 94999,
+  "Price_2024": 75999,
+  "Price_2025": 60799
+ },
+ {
+  "Company Name": "Xiaomi",
+  "Model Name": "Xiaomi 14 256GB",
+  "Launched Year": 2023,
+  "Price_2022": "N\/A",
+  "Price_2023": 74999,
+  "Price_2024": 59999,
+  "Price_2025": 47999
+ },
+ {
+  "Company Name": "Xiaomi",
+  "Model Name": "Xiaomi 14 512GB",
+  "Launched Year": 2023,
+  "Price_2022": "N\/A",
+  "Price_2023": 84999,
+  "Price_2024": 67999,
+  "Price_2025": 54399
+ },
+ {
+  "Company Name": "Xiaomi",
+  "Model Name": "Redmi Note 14 Pro+ 5G 128GB",
+  "Launched Year": 2024,
+  "Price_2022": "N\/A",
+  "Price_2023": "N\/A",
+  "Price_2024": 29999,
+  "Price_2025": 23999
+ },
+ {
+  "Company Name": "Xiaomi",
+  "Model Name": "Redmi Note 14 Pro+ 5G 256GB",
+  "Launched Year": 2024,
+  "Price_2022": "N\/A",
+  "Price_2023": "N\/A",
+  "Price_2024": 32999,
+  "Price_2025": 26399
+ },
+ {
+  "Company Name": "Xiaomi",
+  "Model Name": "Redmi Note 14 Pro+ 5G 512GB",
+  "Launched Year": 2024,
+  "Price_2022": "N\/A",
+  "Price_2023": "N\/A",
+  "Price_2024": 35999,
+  "Price_2025": 28799
+ },
+ {
+  "Company Name": "Xiaomi",
+  "Model Name": "Redmi Note 14 Pro 5G 128GB",
+  "Launched Year": 2024,
+  "Price_2022": "N\/A",
+  "Price_2023": "N\/A",
+  "Price_2024": 27999,
+  "Price_2025": 22399
+ },
+ {
+  "Company Name": "Xiaomi",
+  "Model Name": "Redmi Note 14 Pro 5G 256GB",
+  "Launched Year": 2024,
+  "Price_2022": "N\/A",
+  "Price_2023": "N\/A",
+  "Price_2024": 30999,
+  "Price_2025": 24799
+ },
+ {
+  "Company Name": "Xiaomi",
+  "Model Name": "Redmi Note 14 Pro 4G 128GB",
+  "Launched Year": 2024,
+  "Price_2022": "N\/A",
+  "Price_2023": "N\/A",
+  "Price_2024": 24999,
+  "Price_2025": 19999
+ },
+ {
+  "Company Name": "Xiaomi",
+  "Model Name": "Redmi Note 14 Pro 4G 256GB",
+  "Launched Year": 2024,
+  "Price_2022": "N\/A",
+  "Price_2023": "N\/A",
+  "Price_2024": 27999,
+  "Price_2025": 22399
+ },
+ {
+  "Company Name": "Xiaomi",
+  "Model Name": "Redmi Note 14 5G 128GB",
+  "Launched Year": 2024,
+  "Price_2022": "N\/A",
+  "Price_2023": "N\/A",
+  "Price_2024": 21999,
+  "Price_2025": 17599
+ },
+ {
+  "Company Name": "Xiaomi",
+  "Model Name": "Redmi Note 14 5G 256GB",
+  "Launched Year": 2024,
+  "Price_2022": "N\/A",
+  "Price_2023": "N\/A",
+  "Price_2024": 24999,
+  "Price_2025": 19999
+ },
+ {
+  "Company Name": "Xiaomi",
+  "Model Name": "Redmi Note 14 4G 128GB",
+  "Launched Year": 2024,
+  "Price_2022": "N\/A",
+  "Price_2023": "N\/A",
+  "Price_2024": 18999,
+  "Price_2025": 15199
+ },
+ {
+  "Company Name": "Xiaomi",
+  "Model Name": "Redmi Note 14 4G 256GB",
+  "Launched Year": 2024,
+  "Price_2022": "N\/A",
+  "Price_2023": "N\/A",
+  "Price_2024": 21999,
+  "Price_2025": 17599
+ },
+ {
+  "Company Name": "Xiaomi",
+  "Model Name": "Redmi 14C 5G 64GB",
+  "Launched Year": 2024,
+  "Price_2022": "N\/A",
+  "Price_2023": "N\/A",
+  "Price_2024": 14999,
+  "Price_2025": 11999
+ },
+ {
+  "Company Name": "Xiaomi",
+  "Model Name": "Redmi 14C 5G 128GB",
+  "Launched Year": 2024,
+  "Price_2022": "N\/A",
+  "Price_2023": "N\/A",
+  "Price_2024": 16999,
+  "Price_2025": 13599
+ }
+]
